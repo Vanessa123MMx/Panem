@@ -921,3 +921,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Oct2024 22:16:48.933] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [15Oct2024 22:18:10.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Successfully filled 1437 blocks]
 [15Oct2024 22:18:46.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VanessaRS moved too quickly! -9.244935813805967,0.00329429591920416,-5.098229371480784
+[15Oct2024 22:29:15.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Oct2024 22:29:15.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Oct2024 22:29:15.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Oct2024 22:29:15.981] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VanessaRS lost connection: Server closed
+[15Oct2024 22:29:15.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VanessaRS left the game
+[15Oct2024 22:29:16.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Oct2024 22:29:18.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15Oct2024 22:29:54.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15Oct2024 22:29:54.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:the_abyss
+[15Oct2024 22:29:54.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:frost_world
+[15Oct2024 22:29:54.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:pocket_dimension
+[15Oct2024 22:29:54.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15Oct2024 22:29:54.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Oct2024 22:29:54.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Oct2024 22:29:54.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[15Oct2024 22:29:54.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (frost_world): All chunks are saved
+[15Oct2024 22:29:54.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[15Oct2024 22:29:54.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Oct2024 22:29:54.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15Oct2024 22:29:55.143] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@1ee0443c

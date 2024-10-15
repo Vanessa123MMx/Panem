@@ -6925,3 +6925,34 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Oct2024 22:18:46.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VanessaRS moved too quickly! -9.244935813805967,0.00329429591920416,-5.098229371480784
 [15Oct2024 22:22:30.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Oct2024 22:22:31.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Oct2024 22:27:30.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Oct2024 22:27:30.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Oct2024 22:28:24.067] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Oct2024 22:28:24.067] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[15Oct2024 22:29:15.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Oct2024 22:29:15.875] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[15Oct2024 22:29:15.879] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: 938d45f6-1fdb-3703-b8af-5b9aa1695cf9
+[15Oct2024 22:29:15.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Oct2024 22:29:15.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Oct2024 22:29:15.981] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VanessaRS lost connection: Server closed
+[15Oct2024 22:29:15.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VanessaRS left the game
+[15Oct2024 22:29:16.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Oct2024 22:29:18.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15Oct2024 22:29:54.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15Oct2024 22:29:54.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:the_abyss
+[15Oct2024 22:29:54.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:frost_world
+[15Oct2024 22:29:54.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:pocket_dimension
+[15Oct2024 22:29:54.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15Oct2024 22:29:54.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Oct2024 22:29:54.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Oct2024 22:29:54.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Oct2024 22:29:54.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Oct2024 22:29:54.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[15Oct2024 22:29:54.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (frost_world): All chunks are saved
+[15Oct2024 22:29:54.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[15Oct2024 22:29:54.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Oct2024 22:29:54.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15Oct2024 22:29:55.139] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[15Oct2024 22:29:55.143] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@1ee0443c
+[15Oct2024 22:29:55.143] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[15Oct2024 22:29:55.143] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
