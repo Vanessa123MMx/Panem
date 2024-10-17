@@ -17988,3 +17988,288 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Oct2024 21:04:12.545] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:magic_missile(5), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:5, duration:0, durationRemaining:0, source:SCROLL, type:INSTANT
 [17Oct2024 21:04:12.546] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:magic_missile(5), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:5, duration:0, durationRemaining:0, source:SCROLL, type:INSTANT, cancelled:false
 [17Oct2024 21:04:12.893] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:none spellLevel:1, isClient:false
+[17Oct2024 21:05:47.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[17Oct2024 21:05:48.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Oct2024 21:05:48.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Oct2024 21:06:34.430] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 21:06:34.431] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 21:07:03.285] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 21:07:11.346] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:07:11.346] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:07:11.346] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:07:11.348] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:07:11.351] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 7.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 3.5 Damage not ignoring armor: 3.5 Reduced Damage: 3.5 Result Damage: 7.0
+[17Oct2024 21:07:13.155] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:07:13.155] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:07:13.155] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:07:13.156] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:07:13.156] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.5 Armor value: 0.0 Damage ignoring armor (50.0% damage): 5.25 Damage not ignoring armor: 5.25 Reduced Damage: 5.25 Result Damage: 10.5
+[17Oct2024 21:07:14.885] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:07:14.885] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:07:14.885] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:07:14.885] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:07:14.885] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.5 Armor value: 0.0 Damage ignoring armor (50.0% damage): 5.25 Damage not ignoring armor: 5.25 Reduced Damage: 5.25 Result Damage: 10.5
+[17Oct2024 21:07:15.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tu_Gatita17x has made the advancement [Shards of the Past]
+[17Oct2024 21:07:32.146] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:07:32.147] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:07:32.147] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:07:32.147] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:07:32.147] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.5 Armor value: 0.0 Damage ignoring armor (50.0% damage): 5.25 Damage not ignoring armor: 5.25 Reduced Damage: 5.25 Result Damage: 10.5
+[17Oct2024 21:07:33.565] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:07:33.565] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:07:33.565] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:07:33.565] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:07:33.565] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.5 Armor value: 0.0 Damage ignoring armor (50.0% damage): 5.25 Damage not ignoring armor: 5.25 Reduced Damage: 5.25 Result Damage: 10.5
+[17Oct2024 21:07:36.257] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:07:36.257] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:07:36.257] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:07:36.259] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:07:36.259] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.5 Armor value: 0.0 Damage ignoring armor (50.0% damage): 5.25 Damage not ignoring armor: 5.25 Reduced Damage: 5.25 Result Damage: 10.5
+[17Oct2024 21:07:38.436] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:07:38.436] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:07:38.436] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:07:38.437] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:07:38.437] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.5 Armor value: 0.0 Damage ignoring armor (50.0% damage): 5.25 Damage not ignoring armor: 5.25 Reduced Damage: 5.25 Result Damage: 10.5
+[17Oct2024 21:07:49.183] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:07:49.183] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:07:49.183] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:07:49.183] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:07:49.183] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 7.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 3.5 Damage not ignoring armor: 3.5 Reduced Damage: 3.5 Result Damage: 7.0
+[17Oct2024 21:07:53.826] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:07:53.827] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:07:53.827] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:07:53.828] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:07:53.828] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 7.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 3.5 Damage not ignoring armor: 3.5 Reduced Damage: 3.5 Result Damage: 7.0
+[17Oct2024 21:07:55.388] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:07:55.388] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:07:55.388] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:07:55.388] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:07:55.388] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 7.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 3.5 Damage not ignoring armor: 3.5 Reduced Damage: 3.5 Result Damage: 7.0
+[17Oct2024 21:07:56.665] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:07:56.665] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:07:56.665] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:07:56.665] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:07:56.666] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.5 Armor value: 0.0 Damage ignoring armor (50.0% damage): 5.25 Damage not ignoring armor: 5.25 Reduced Damage: 5.25 Result Damage: 10.5
+[17Oct2024 21:08:04.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Creative Mode]
+[17Oct2024 21:08:40.582] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:08:40.582] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:08:40.582] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:08:40.583] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:08:40.583] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.5 Armor value: 0.0 Damage ignoring armor (50.0% damage): 5.25 Damage not ignoring armor: 5.25 Reduced Damage: 5.25 Result Damage: 10.5
+[17Oct2024 21:08:41.763] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:08:41.764] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:08:41.764] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:08:41.764] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:08:41.764] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.5 Armor value: 0.0 Damage ignoring armor (50.0% damage): 5.25 Damage not ignoring armor: 5.25 Reduced Damage: 5.25 Result Damage: 10.5
+[17Oct2024 21:08:47.485] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:08:47.485] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:08:47.485] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:08:47.485] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:08:47.485] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 7.0 Armor value: 3.0 Damage ignoring armor (50.0% damage): 3.5 Damage not ignoring armor: 3.5 Reduced Damage: 3.286316 Result Damage: 6.786316
+[17Oct2024 21:08:48.883] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:08:48.883] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:08:48.883] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:08:48.883] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:08:48.883] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.5 Armor value: 3.0 Damage ignoring armor (50.0% damage): 5.25 Damage not ignoring armor: 5.25 Reduced Damage: 5.0842104 Result Damage: 10.33421
+[17Oct2024 21:08:49.953] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:08:49.954] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:08:49.954] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:08:49.955] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:08:49.955] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.5 Armor value: 3.0 Damage ignoring armor (50.0% damage): 5.25 Damage not ignoring armor: 5.25 Reduced Damage: 5.0842104 Result Damage: 10.33421
+[17Oct2024 21:09:31.084] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:09:31.084] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:09:31.084] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:09:31.085] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:09:31.085] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.5 Armor value: 7.0 Damage ignoring armor (50.0% damage): 5.25 Damage not ignoring armor: 5.25 Reduced Damage: 4.2442107 Result Damage: 9.494211
+[17Oct2024 21:09:35.029] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:09:35.029] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:09:35.029] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:09:35.030] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:09:35.030] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.5 Armor value: 7.0 Damage ignoring armor (50.0% damage): 5.25 Damage not ignoring armor: 5.25 Reduced Damage: 4.2442107 Result Damage: 9.494211
+[17Oct2024 21:09:36.379] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:09:36.379] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:09:36.379] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:09:36.379] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:09:36.379] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.5 Armor value: 7.0 Damage ignoring armor (50.0% damage): 5.25 Damage not ignoring armor: 5.25 Reduced Damage: 4.2442107 Result Damage: 9.494211
+[17Oct2024 21:09:40.104] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:09:40.104] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:09:40.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tioskrollex4 has made the advancement [Nerves of Steel]
+[17Oct2024 21:09:41.041] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:09:41.041] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:09:42.005] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:09:42.005] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:09:46.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tu_Gatita17x has made the advancement [Nerves of Steel]
+[17Oct2024 21:10:08.845] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:10:08.845] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:10:09.628] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:10:09.628] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:10:10.377] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:10:10.377] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:10:11.013] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:10:11.013] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:10:11.688] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:10:11.688] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:10:48.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Oct2024 21:10:48.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Oct2024 21:11:40.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tioskrollex4 lost connection: Timed out
+[17Oct2024 21:11:40.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tioskrollex4 left the game
+[17Oct2024 21:11:40.545] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Oct2024 21:11:52.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tu_Gatita17x has reached the goal [Upgrade Me with Debris]
+[17Oct2024 21:12:13.629] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:12:13.629] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:12:13.629] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:12:13.630] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:12:13.630] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 15.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 7.5 Damage not ignoring armor: 7.5 Reduced Damage: 7.5 Result Damage: 15.0
+[17Oct2024 21:12:14.562] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:12:14.562] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:12:14.562] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:12:14.562] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:12:14.562] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 15.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 7.5 Damage not ignoring armor: 7.5 Reduced Damage: 7.5 Result Damage: 15.0
+[17Oct2024 21:12:16.261] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:12:16.261] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:12:16.261] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:12:16.261] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:12:16.261] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 15.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 7.5 Damage not ignoring armor: 7.5 Reduced Damage: 7.5 Result Damage: 15.0
+[17Oct2024 21:12:20.991] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:12:20.992] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:12:20.992] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:12:20.994] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:12:20.994] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.0 Armor value: 2.0 Damage ignoring armor (50.0% damage): 5.0 Damage not ignoring armor: 5.0 Reduced Damage: 4.92 Result Damage: 9.92
+[17Oct2024 21:12:22.228] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:12:22.228] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:12:22.228] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:12:22.228] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:12:22.228] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.0 Armor value: 2.0 Damage ignoring armor (50.0% damage): 5.0 Damage not ignoring armor: 5.0 Reduced Damage: 4.92 Result Damage: 9.92
+[17Oct2024 21:12:24.128] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:12:24.128] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:12:24.128] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:12:24.128] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:12:24.128] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.0 Armor value: 2.0 Damage ignoring armor (50.0% damage): 5.0 Damage not ignoring armor: 5.0 Reduced Damage: 4.92 Result Damage: 9.92
+[17Oct2024 21:12:26.228] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:12:26.228] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:12:26.228] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:12:26.228] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:12:26.228] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 15.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 7.5 Damage not ignoring armor: 7.5 Reduced Damage: 7.5 Result Damage: 15.0
+[17Oct2024 21:12:27.578] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:12:27.578] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:12:27.578] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:12:27.578] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:12:27.578] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 5.0 Damage not ignoring armor: 5.0 Reduced Damage: 5.0 Result Damage: 10.0
+[17Oct2024 21:12:33.128] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:12:33.128] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:12:33.128] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:12:33.128] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:12:33.128] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 5.0 Damage not ignoring armor: 5.0 Reduced Damage: 5.0 Result Damage: 10.0
+[17Oct2024 21:12:35.136] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:12:35.136] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:12:35.136] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:12:35.136] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:12:35.136] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 5.0 Damage not ignoring armor: 5.0 Reduced Damage: 5.0 Result Damage: 10.0
+[17Oct2024 21:12:36.526] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:12:36.526] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:12:36.526] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:12:36.527] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:12:36.527] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 15.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 7.5 Damage not ignoring armor: 7.5 Reduced Damage: 7.5 Result Damage: 15.0
+[17Oct2024 21:12:37.489] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:12:37.489] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:12:37.489] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:12:37.489] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:12:37.489] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 15.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 7.5 Damage not ignoring armor: 7.5 Reduced Damage: 7.5 Result Damage: 15.0
+[17Oct2024 21:12:46.026] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:12:46.027] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:12:46.027] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:12:46.027] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:12:46.027] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 5.0 Damage not ignoring armor: 5.0 Reduced Damage: 5.0 Result Damage: 10.0
+[17Oct2024 21:12:49.659] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:12:49.659] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:12:49.659] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:12:49.660] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:12:49.661] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 5.0 Damage not ignoring armor: 5.0 Reduced Damage: 5.0 Result Damage: 10.0
+[17Oct2024 21:12:52.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
+[17Oct2024 21:13:04.413] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:13:04.413] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:13:04.413] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:13:04.414] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:13:04.414] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 5.0 Damage not ignoring armor: 5.0 Reduced Damage: 5.0 Result Damage: 10.0
+[17Oct2024 21:13:05.365] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:13:05.365] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:13:05.365] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:13:05.366] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:13:05.366] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 5.0 Damage not ignoring armor: 5.0 Reduced Damage: 5.0 Result Damage: 10.0
+[17Oct2024 21:13:20.287] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:13:20.287] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:13:20.287] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:13:20.288] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:13:20.288] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 5.0 Damage not ignoring armor: 5.0 Reduced Damage: 5.0 Result Damage: 10.0
+[17Oct2024 21:13:23.779] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:13:23.779] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:13:23.779] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:13:23.779] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:13:23.780] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 5.0 Damage not ignoring armor: 5.0 Reduced Damage: 5.0 Result Damage: 10.0
+[17Oct2024 21:13:28.342] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:13:28.342] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:13:28.342] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:13:28.343] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:13:28.344] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 5.0 Damage not ignoring armor: 5.0 Reduced Damage: 5.0 Result Damage: 10.0
+[17Oct2024 21:13:29.594] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:13:29.594] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:13:29.594] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:13:33.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Creative Mode]
+[17Oct2024 21:14:01.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
+[17Oct2024 21:14:05.382] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:14:05.382] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:14:05.383] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:14:05.383] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:14:05.383] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 15.0 Armor value: 6.0 Damage ignoring armor (50.0% damage): 7.5 Damage not ignoring armor: 7.5 Reduced Damage: 6.6473684 Result Damage: 14.147368
+[17Oct2024 21:14:06.863] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:14:06.863] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:14:06.863] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:14:06.863] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:14:06.863] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 15.0 Armor value: 6.0 Damage ignoring armor (50.0% damage): 7.5 Damage not ignoring armor: 7.5 Reduced Damage: 6.6473684 Result Damage: 14.147368
+[17Oct2024 21:14:08.907] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:14:08.907] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:14:08.907] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:14:08.907] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:14:08.907] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 15.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 7.5 Damage not ignoring armor: 7.5 Reduced Damage: 7.5 Result Damage: 15.0
+[17Oct2024 21:14:10.177] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:14:10.178] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:14:10.178] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:14:10.178] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:14:10.178] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 5.0 Damage not ignoring armor: 5.0 Reduced Damage: 5.0 Result Damage: 10.0
+[17Oct2024 21:14:17.184] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:14:17.185] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:14:17.185] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:14:17.185] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:14:17.185] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 15.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 7.5 Damage not ignoring armor: 7.5 Reduced Damage: 7.5 Result Damage: 15.0
+[17Oct2024 21:14:18.785] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:14:18.785] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:14:18.785] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:14:18.786] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:14:18.786] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 5.0 Damage not ignoring armor: 5.0 Reduced Damage: 5.0 Result Damage: 10.0
+[17Oct2024 21:14:29.227] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:14:29.227] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:14:29.227] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:14:29.228] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:14:29.228] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.0 Armor value: 2.0 Damage ignoring armor (50.0% damage): 5.0 Damage not ignoring armor: 5.0 Reduced Damage: 4.92 Result Damage: 9.92
+[17Oct2024 21:14:30.230] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:14:30.230] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:14:30.230] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:14:30.230] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:14:30.231] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.0 Armor value: 2.0 Damage ignoring armor (50.0% damage): 5.0 Damage not ignoring armor: 5.0 Reduced Damage: 4.92 Result Damage: 9.92
+[17Oct2024 21:14:31.176] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:14:31.176] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:14:31.176] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:14:31.176] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:14:31.176] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 10.0 Armor value: 2.0 Damage ignoring armor (50.0% damage): 5.0 Damage not ignoring armor: 5.0 Reduced Damage: 4.92 Result Damage: 9.92
+[17Oct2024 21:14:33.710] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:14:33.710] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:14:33.710] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:14:33.710] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:14:33.710] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 15.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 7.5 Damage not ignoring armor: 7.5 Reduced Damage: 7.5 Result Damage: 15.0
+[17Oct2024 21:14:38.950] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 21:14:38.950] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 21:14:38.950] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[17Oct2024 21:14:38.952] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[17Oct2024 21:14:38.952] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 15.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 7.5 Damage not ignoring armor: 7.5 Reduced Damage: 7.5 Result Damage: 15.0
+[17Oct2024 21:15:48.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Oct2024 21:15:48.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

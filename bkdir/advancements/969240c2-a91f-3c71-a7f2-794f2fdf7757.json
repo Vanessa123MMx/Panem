@@ -483,6 +483,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-10-17 21:04:11 +0000",
       "minecraft:spider": "2024-10-17 20:45:33 +0000"
     },
     "done": false
@@ -580,6 +581,12 @@
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2024-10-16 02:59:35 +0000"
+    },
+    "done": true
+  },
+  "undead_unleashed:nerves_of_steel": {
+    "criteria": {
+      "nerves_of_steel": "2024-10-17 21:09:40 +0000"
     },
     "done": true
   },

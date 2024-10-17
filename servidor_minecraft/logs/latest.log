@@ -1144,3 +1144,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Oct2024 21:02:35.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Creative Mode]
 [17Oct2024 21:02:50.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tu_Gatita17x has made the advancement [Blunt-force Trauma]
 [17Oct2024 21:03:13.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
+[17Oct2024 21:05:47.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[17Oct2024 21:07:15.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tu_Gatita17x has made the advancement [Shards of the Past]
+[17Oct2024 21:08:04.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Creative Mode]
+[17Oct2024 21:09:40.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tioskrollex4 has made the advancement [Nerves of Steel]
+[17Oct2024 21:09:46.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tu_Gatita17x has made the advancement [Nerves of Steel]
+[17Oct2024 21:11:40.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tioskrollex4 lost connection: Timed out
+[17Oct2024 21:11:40.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tioskrollex4 left the game
+[17Oct2024 21:11:40.545] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Oct2024 21:11:52.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tu_Gatita17x has reached the goal [Upgrade Me with Debris]
+[17Oct2024 21:12:52.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
+[17Oct2024 21:13:33.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Creative Mode]
+[17Oct2024 21:14:01.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
