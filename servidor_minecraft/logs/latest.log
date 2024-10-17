@@ -933,3 +933,43 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Oct2024 18:57:48.575] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Leslie'/6218, l='ServerLevel[world]', x=-426.02, y=63.00, z=-338.79] died: Leslie was slain by Fallen Chaos Knight
 [17Oct2024 19:12:12.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Successfully filled 263 blocks]
 [17Oct2024 19:21:22.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Successfully filled 237 blocks]
+[17Oct2024 19:45:25.984] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[17Oct2024 19:45:25.992] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[17Oct2024 19:45:26.036] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[17Oct2024 19:45:26.085] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[17Oct2024 19:45:26.133] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[17Oct2024 19:45:26.189] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[17Oct2024 19:45:26.233] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[17Oct2024 19:45:26.287] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[17Oct2024 19:45:26.333] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[17Oct2024 19:45:26.391] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[17Oct2024 19:45:26.436] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[17Oct2024 19:45:26.487] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[17Oct2024 19:45:28.193] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[17Oct2024 19:45:28.197] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[17Oct2024 19:45:28.207] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[17Oct2024 19:45:31.503] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2fa9c3a0
+[17Oct2024 19:45:31.544] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tioskrollex4[/[0:0:0:0:0:0:0:1%0]:57028] logged in with entity id 13391 at (-361.90214994347656, 94.36045477989016, -251.00279279448384)
+[17Oct2024 19:45:31.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tioskrollex4 joined the game
+[17Oct2024 19:45:31.652] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[17Oct2024 19:45:31.653] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[17Oct2024 19:45:31.655] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[17Oct2024 19:45:31.655] [Server thread/INFO] [Jade/]: Syncing config to tioskrollex4 (969240c2-a91f-3c71-a7f2-794f2fdf7757)
+[17Oct2024 19:49:00.939] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[17Oct2024 19:49:00.952] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[17Oct2024 19:49:01.000] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[17Oct2024 19:49:01.049] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[17Oct2024 19:49:01.099] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[17Oct2024 19:49:01.145] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[17Oct2024 19:49:01.196] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[17Oct2024 19:49:01.267] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[17Oct2024 19:49:01.294] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[17Oct2024 19:49:01.352] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[17Oct2024 19:49:01.400] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[17Oct2024 19:49:01.443] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[17Oct2024 19:49:03.819] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[17Oct2024 19:49:03.828] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[17Oct2024 19:49:03.834] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[17Oct2024 19:49:03.879] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [undead_unleashed:undead_unleashed,piglinproliferation:main,days_in_the_middle_ages:days_in_the_middle_ages] rejected their client side version number
+[17Oct2024 19:49:03.880] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[17Oct2024 19:49:03.911] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@581fccd5[id=<null>,name=Tu_Gatita17x,properties={},legacy=false] (/[0:0:0:0:0:0:0:1%0]:39816) lost connection: Connection closed - mismatched mod channel list
