@@ -7343,3 +7343,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Oct2024 02:24:22.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> soy la princesa enxerrada en la torre
 [17Oct2024 02:24:28.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VanessaRS> JAJAJA
 [17Oct2024 02:24:56.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> fotico pal grupo
+[17Oct2024 02:28:08.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Oct2024 02:28:08.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Oct2024 02:30:24.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VanessaRS> donde peldon no vi el mensaje
+[17Oct2024 02:33:08.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Oct2024 02:33:08.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Oct2024 02:34:13.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COOPER has made the advancement [Limit Breaker]
+[17Oct2024 02:36:05.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> lo mejor de lo mejor estoy creando
