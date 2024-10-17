@@ -1136,3 +1136,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Oct2024 20:52:14.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
 [17Oct2024 20:54:30.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tioskrollex4: Set own game mode to Creative Mode]
 [17Oct2024 20:55:03.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[17Oct2024 20:55:45.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Creative Mode]
+[17Oct2024 20:56:33.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
+[17Oct2024 21:01:23.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Oct2024 21:02:10.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Creative Mode]
+[17Oct2024 21:02:15.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
+[17Oct2024 21:02:35.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Creative Mode]
+[17Oct2024 21:02:50.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tu_Gatita17x has made the advancement [Blunt-force Trauma]
+[17Oct2024 21:03:13.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
