@@ -889,3 +889,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Oct2024 17:36:48.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VanessaRS has completed the challenge [If You Can't Take the Heat...]
 [17Oct2024 17:43:08.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VanessaRS has completed the challenge [It's Purple!]
 [17Oct2024 17:44:05.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VanessaRS has made the advancement [Limit Breaker]
+[17Oct2024 18:05:04.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Set own game mode to Survival Mode]
+[17Oct2024 18:06:33.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Set own game mode to Creative Mode]
+[17Oct2024 18:07:25.594] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@257a1e9a
+[17Oct2024 18:07:37.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Set own game mode to Survival Mode]
