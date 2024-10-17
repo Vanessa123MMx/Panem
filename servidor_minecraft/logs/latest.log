@@ -1114,3 +1114,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Oct2024 20:43:19.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tioskrollex4 was shot by Tu_Gatita17x
 [17Oct2024 20:43:41.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tioskrollex4: Teleported tioskrollex4 to Tu_Gatita17x]
 [17Oct2024 20:43:56.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tu_Gatita17x moved wrongly!
+[17Oct2024 20:44:37.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Oct2024 20:44:46.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Creative Mode]
+[17Oct2024 20:44:50.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
+[17Oct2024 20:44:51.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Creative Mode]
+[17Oct2024 20:44:57.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
+[17Oct2024 20:44:58.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tu_Gatita17x fell from a high place
+[17Oct2024 20:45:02.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Set the weather to clear]
+[17Oct2024 20:45:12.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Creative Mode]
+[17Oct2024 20:45:33.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tioskrollex4 has made the advancement [Monster Hunter]
+[17Oct2024 20:45:52.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tu_Gatita17x has reached the goal [This Belongs in a Museum]
+[17Oct2024 20:46:24.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tioskrollex4: Set own game mode to Creative Mode]
+[17Oct2024 20:47:05.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Teleported Tu_Gatita17x to tioskrollex4]
+[17Oct2024 20:48:13.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tioskrollex4: Set own game mode to Survival Mode]
+[17Oct2024 20:48:20.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
+[17Oct2024 20:49:08.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Creative Mode]
+[17Oct2024 20:49:24.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
+[17Oct2024 20:50:13.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Set the weather to clear]
+[17Oct2024 20:50:55.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Creative Mode]
+[17Oct2024 20:51:02.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
+[17Oct2024 20:52:14.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Oct2024 20:54:30.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tioskrollex4: Set own game mode to Creative Mode]
+[17Oct2024 20:55:03.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind

@@ -12281,3 +12281,1114 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Oct2024 20:43:56.152] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
 [17Oct2024 20:43:56.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tu_Gatita17x moved wrongly!
 [17Oct2024 20:44:10.380] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:44:37.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Oct2024 20:44:46.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Creative Mode]
+[17Oct2024 20:44:50.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
+[17Oct2024 20:44:51.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Creative Mode]
+[17Oct2024 20:44:57.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
+[17Oct2024 20:44:58.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tu_Gatita17x fell from a high place
+[17Oct2024 20:45:02.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Set the weather to clear]
+[17Oct2024 20:45:12.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Creative Mode]
+[17Oct2024 20:45:33.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tioskrollex4 has made the advancement [Monster Hunter]
+[17Oct2024 20:45:36.582] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:45:36.685] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:45:36.785] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:45:36.933] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:45:36.984] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:45:37.033] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:45:37.083] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:45:37.184] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:45:37.185] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:45:37.235] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:45:37.235] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:45:37.384] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:45:44.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Oct2024 20:45:44.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Oct2024 20:45:52.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tu_Gatita17x has reached the goal [This Belongs in a Museum]
+[17Oct2024 20:46:11.328] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:11.378] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:11.429] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:11.579] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:11.579] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:11.630] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:11.679] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:11.680] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:11.680] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:11.680] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:11.731] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:11.778] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:11.928] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:11.928] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:11.929] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:11.978] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:11.978] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:12.132] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:12.230] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:12.280] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:12.330] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:12.330] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:12.430] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:12.480] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:12.588] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:12.680] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:12.729] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:12.790] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:12.791] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:13.130] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:46:24.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tioskrollex4: Set own game mode to Creative Mode]
+[17Oct2024 20:47:05.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Teleported Tu_Gatita17x to tioskrollex4]
+[17Oct2024 20:48:13.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tioskrollex4: Set own game mode to Survival Mode]
+[17Oct2024 20:48:20.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
+[17Oct2024 20:49:08.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Creative Mode]
+[17Oct2024 20:49:24.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
+[17Oct2024 20:49:38.876] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:raise_dead spellLevel:5, isClient:false
+[17Oct2024 20:49:38.877] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:raise_dead(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:raise_dead], spellLevel:5, duration:30, durationRemaining:30, source:MOB, type:LONG
+[17Oct2024 20:49:38.877] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:38.926] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:38.976] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:39.026] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:39.076] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:39.126] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:39.176] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:39.232] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:39.277] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:39.329] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:39.378] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:39.426] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:39.476] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:39.526] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:39.575] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:39.627] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:39.675] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:39.725] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:39.779] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:39.831] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:39.889] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:39.929] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:39.983] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:40.041] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:40.077] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:40.127] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:40.176] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:40.227] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:40.283] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:40.326] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:40.326] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:49:40.326] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:49:40.342] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:raise_dead(5), pmd:isCasting:true, spellID:irons_spellbooks:raise_dead], spellLevel:5, duration:30, durationRemaining:0, source:MOB, type:LONG
+[17Oct2024 20:49:40.342] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:raise_dead(5), pmd:isCasting:true, spellID:irons_spellbooks:raise_dead], spellLevel:5, duration:30, durationRemaining:0, source:MOB, type:LONG, cancelled:false
+[17Oct2024 20:49:42.076] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:magic_missile spellLevel:3, isClient:false
+[17Oct2024 20:49:42.076] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:magic_missile(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:49:42.076] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:42.076] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:49:42.076] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:49:42.076] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:magic_missile(3), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:49:42.076] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:magic_missile(3), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:49:51.258] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:icicle spellLevel:3, isClient:false
+[17Oct2024 20:49:51.259] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:icicle(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:49:51.259] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:51.259] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:49:51.259] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:49:51.260] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:icicle(3), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:49:51.260] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:icicle(3), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:49:59.726] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:icicle spellLevel:3, isClient:false
+[17Oct2024 20:49:59.726] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:icicle(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:49:59.726] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:49:59.726] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:49:59.726] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:49:59.726] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:icicle(3), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:49:59.726] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:icicle(3), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:50:03.555] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:icicle spellLevel:1, isClient:false
+[17Oct2024 20:50:03.556] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:icicle(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:50:03.556] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:50:03.556] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:50:03.556] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:50:03.557] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:icicle(1), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:50:03.557] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:icicle(1), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:50:13.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Set the weather to clear]
+[17Oct2024 20:50:15.181] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:none spellLevel:1, isClient:false
+[17Oct2024 20:50:21.342] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:50:21.412] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:50:23.098] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:magic_missile spellLevel:1, isClient:false
+[17Oct2024 20:50:23.098] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:magic_missile(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:50:23.098] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:50:23.099] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:50:23.099] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:50:23.099] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:magic_missile(1), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:50:23.099] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:magic_missile(1), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:50:23.199] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Oct2024 20:50:25.607] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:icicle spellLevel:1, isClient:false
+[17Oct2024 20:50:25.607] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:icicle(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:50:25.607] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:50:25.607] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:50:25.607] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:50:25.607] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:icicle(1), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:50:25.607] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:icicle(1), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:50:37.977] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:icicle spellLevel:3, isClient:false
+[17Oct2024 20:50:37.978] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:icicle(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:50:37.978] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:50:37.978] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:50:37.978] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:50:37.978] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:icicle(3), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:50:37.978] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:icicle(3), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:50:42.824] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:magic_missile spellLevel:1, isClient:false
+[17Oct2024 20:50:42.824] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:magic_missile(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:50:42.824] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:50:42.824] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:50:42.825] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:50:42.825] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:magic_missile(1), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:50:42.825] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:magic_missile(1), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:50:44.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Oct2024 20:50:44.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Oct2024 20:50:48.226] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:icicle spellLevel:3, isClient:false
+[17Oct2024 20:50:48.226] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:icicle(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:50:48.226] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:50:48.226] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:50:48.226] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:50:48.226] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:icicle(3), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:50:48.226] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:icicle(3), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:50:52.574] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:magic_missile spellLevel:1, isClient:false
+[17Oct2024 20:50:52.575] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:magic_missile(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:50:52.575] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:50:52.575] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:50:52.575] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:50:52.576] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:magic_missile(1), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:50:52.576] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:magic_missile(1), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:50:55.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Creative Mode]
+[17Oct2024 20:50:57.734] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (78 | 43 | -482)
+[17Oct2024 20:50:57.734] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (78 | 43 | -482)
+[17Oct2024 20:50:57.734] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (78 | 44 | -482)
+[17Oct2024 20:50:57.734] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (78 | 44 | -482)
+[17Oct2024 20:50:57.734] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (78 | 45 | -482)
+[17Oct2024 20:50:57.734] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (78 | 45 | -482)
+[17Oct2024 20:50:57.734] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (78 | 46 | -482)
+[17Oct2024 20:50:57.734] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (78 | 46 | -482)
+[17Oct2024 20:50:57.734] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (78 | 47 | -482)
+[17Oct2024 20:50:57.734] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (78 | 47 | -482)
+[17Oct2024 20:50:57.734] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (78 | 48 | -482)
+[17Oct2024 20:50:57.734] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (78 | 48 | -482)
+[17Oct2024 20:50:57.735] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (78 | 49 | -482)
+[17Oct2024 20:50:57.735] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (78 | 49 | -482)
+[17Oct2024 20:50:57.735] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (78 | 50 | -482)
+[17Oct2024 20:50:57.735] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (78 | 50 | -482)
+[17Oct2024 20:50:57.735] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (78 | 51 | -482)
+[17Oct2024 20:50:57.735] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (78 | 51 | -482)
+[17Oct2024 20:50:57.735] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (78 | 52 | -482)
+[17Oct2024 20:50:57.735] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (78 | 52 | -482)
+[17Oct2024 20:50:57.735] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (78 | 53 | -482)
+[17Oct2024 20:50:57.735] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (78 | 53 | -482)
+[17Oct2024 20:50:57.735] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (78 | 54 | -482)
+[17Oct2024 20:50:57.735] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (78 | 54 | -482)
+[17Oct2024 20:50:57.735] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (78 | 55 | -482)
+[17Oct2024 20:50:57.735] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (78 | 55 | -482)
+[17Oct2024 20:50:57.735] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (78 | 56 | -482)
+[17Oct2024 20:50:57.735] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (78 | 56 | -482)
+[17Oct2024 20:50:57.735] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (78 | 57 | -482)
+[17Oct2024 20:50:57.735] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (78 | 57 | -482)
+[17Oct2024 20:50:57.736] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (78 | 58 | -482)
+[17Oct2024 20:50:57.736] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (78 | 58 | -482)
+[17Oct2024 20:50:57.736] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (78 | 59 | -482)
+[17Oct2024 20:50:57.736] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (78 | 59 | -482)
+[17Oct2024 20:50:57.736] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (78 | 60 | -482)
+[17Oct2024 20:50:57.736] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (78 | 60 | -482)
+[17Oct2024 20:50:57.736] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (78 | 61 | -482)
+[17Oct2024 20:50:57.736] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (78 | 61 | -482)
+[17Oct2024 20:50:57.736] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (78 | 62 | -482)
+[17Oct2024 20:50:57.736] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (78 | 62 | -482)
+[17Oct2024 20:50:57.736] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:entrance/roguelike/witch_tower with rotation NONE at (74 | 63 | -486)
+[17Oct2024 20:50:57.737] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:entrance/roguelike/witch_tower with rotation NONE at (74 | 63 | -486)
+[17Oct2024 20:50:57.738] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (76 | 34 | -484)
+[17Oct2024 20:50:57.738] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (76 | 34 | -484)
+[17Oct2024 20:50:57.738] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/cake_room with rotation NONE at (85 | 34 | -484)
+[17Oct2024 20:50:57.739] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/cake_room with rotation NONE at (85 | 34 | -484)
+[17Oct2024 20:50:57.739] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/starter_room with rotation CLOCKWISE_90 at (85 | 34 | -475)
+[17Oct2024 20:50:57.741] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/starter_room with rotation CLOCKWISE_90 at (85 | 34 | -475)
+[17Oct2024 20:50:57.741] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (85 | 34 | -466)
+[17Oct2024 20:50:57.741] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (85 | 34 | -466)
+[17Oct2024 20:50:57.741] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_180 at (95 | 34 | -478)
+[17Oct2024 20:50:57.741] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_180 at (95 | 34 | -478)
+[17Oct2024 20:50:57.741] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (94 | 34 | -482)
+[17Oct2024 20:50:57.742] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (94 | 34 | -482)
+[17Oct2024 20:50:57.742] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (94 | 34 | -465)
+[17Oct2024 20:50:57.742] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (94 | 34 | -465)
+[17Oct2024 20:50:57.742] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (78 | 23 | -473)
+[17Oct2024 20:50:57.742] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (78 | 23 | -473)
+[17Oct2024 20:50:57.742] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (89 | 16 | -474)
+[17Oct2024 20:50:57.743] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (89 | 16 | -474)
+[17Oct2024 20:50:57.743] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (72 | 16 | -479)
+[17Oct2024 20:50:57.744] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (72 | 16 | -479)
+[17Oct2024 20:50:57.744] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (94 | 16 | -474)
+[17Oct2024 20:50:57.745] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (94 | 16 | -474)
+[17Oct2024 20:50:57.745] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (85 | 7 | -484)
+[17Oct2024 20:50:57.747] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (85 | 7 | -484)
+[17Oct2024 20:50:57.748] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (85 | 7 | -484)
+[17Oct2024 20:50:57.748] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (85 | 7 | -484)
+[17Oct2024 20:50:57.749] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (91 | 7 | -472)
+[17Oct2024 20:50:57.749] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (91 | 7 | -472)
+[17Oct2024 20:50:57.749] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/default at (91 | 7 | -472)
+[17Oct2024 20:50:57.749] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/default at (91 | 7 | -472)
+[17Oct2024 20:50:57.749] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (86 | 7 | -472)
+[17Oct2024 20:50:57.750] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (86 | 7 | -472)
+[17Oct2024 20:50:57.750] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/default at (86 | 7 | -472)
+[17Oct2024 20:50:57.750] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/default at (86 | 7 | -472)
+[17Oct2024 20:50:57.750] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (86 | 7 | -475)
+[17Oct2024 20:50:57.753] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (86 | 7 | -475)
+[17Oct2024 20:50:57.753] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (86 | 7 | -475)
+[17Oct2024 20:50:57.753] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (86 | 7 | -475)
+[17Oct2024 20:50:57.754] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (86 | 7 | -466)
+[17Oct2024 20:50:57.754] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (86 | 7 | -466)
+[17Oct2024 20:50:57.754] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (86 | 7 | -466)
+[17Oct2024 20:50:57.754] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (86 | 7 | -466)
+[17Oct2024 20:50:57.755] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (94 | 7 | -483)
+[17Oct2024 20:50:57.755] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (94 | 7 | -483)
+[17Oct2024 20:50:57.755] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (94 | 7 | -483)
+[17Oct2024 20:50:57.756] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (94 | 7 | -483)
+[17Oct2024 20:50:57.756] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (86 | -2 | -484)
+[17Oct2024 20:50:57.756] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (86 | -2 | -484)
+[17Oct2024 20:50:57.756] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (81 | -3 | -479)
+[17Oct2024 20:50:57.767] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (81 | -3 | -479)
+[17Oct2024 20:50:57.912] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_180 at (95 | 34 | -478)
+[17Oct2024 20:50:57.912] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_180 at (95 | 34 | -478)
+[17Oct2024 20:50:57.913] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_180 at (99 | 34 | -478)
+[17Oct2024 20:50:57.913] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_180 at (99 | 34 | -478)
+[17Oct2024 20:50:57.913] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (94 | 34 | -482)
+[17Oct2024 20:50:57.913] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (94 | 34 | -482)
+[17Oct2024 20:50:57.913] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (94 | 34 | -465)
+[17Oct2024 20:50:57.914] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (94 | 34 | -465)
+[17Oct2024 20:50:57.914] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (103 | 34 | -483)
+[17Oct2024 20:50:57.914] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (103 | 34 | -483)
+[17Oct2024 20:50:57.914] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (108 | 34 | -465)
+[17Oct2024 20:50:57.914] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (108 | 34 | -465)
+[17Oct2024 20:50:57.914] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation NONE at (104 | 34 | -465)
+[17Oct2024 20:50:57.914] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation NONE at (104 | 34 | -465)
+[17Oct2024 20:50:57.914] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (110 | 25 | -486)
+[17Oct2024 20:50:57.914] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (110 | 25 | -486)
+[17Oct2024 20:50:57.915] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (94 | 16 | -474)
+[17Oct2024 20:50:57.916] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (94 | 16 | -474)
+[17Oct2024 20:50:57.916] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (103 | 16 | -484)
+[17Oct2024 20:50:57.917] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (103 | 16 | -484)
+[17Oct2024 20:50:57.917] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (103 | 16 | -475)
+[17Oct2024 20:50:57.930] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (103 | 16 | -475)
+[17Oct2024 20:50:57.930] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_180 at (97 | 7 | -478)
+[17Oct2024 20:50:57.930] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_180 at (97 | 7 | -478)
+[17Oct2024 20:50:57.930] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/default at (97 | 7 | -478)
+[17Oct2024 20:50:57.930] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/default at (97 | 7 | -478)
+[17Oct2024 20:50:57.930] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (94 | 7 | -483)
+[17Oct2024 20:50:57.930] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (94 | 7 | -483)
+[17Oct2024 20:50:57.930] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (94 | 7 | -483)
+[17Oct2024 20:50:57.931] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (94 | 7 | -483)
+[17Oct2024 20:50:57.931] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (103 | 7 | -484)
+[17Oct2024 20:50:57.931] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (103 | 7 | -484)
+[17Oct2024 20:50:57.931] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/stairs_bottom at (103 | 7 | -484)
+[17Oct2024 20:50:57.932] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/stairs_bottom at (103 | 7 | -484)
+[17Oct2024 20:50:57.932] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (81 | -3 | -479)
+[17Oct2024 20:50:57.932] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (81 | -3 | -479)
+[17Oct2024 20:50:58.091] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (112 | 34 | -484)
+[17Oct2024 20:50:58.093] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (112 | 34 | -484)
+[17Oct2024 20:50:58.093] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (113 | 34 | -475)
+[17Oct2024 20:50:58.094] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (113 | 34 | -475)
+[17Oct2024 20:50:58.094] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (112 | 34 | -466)
+[17Oct2024 20:50:58.094] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (112 | 34 | -466)
+[17Oct2024 20:50:58.094] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation NONE at (121 | 34 | -482)
+[17Oct2024 20:50:58.094] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation NONE at (121 | 34 | -482)
+[17Oct2024 20:50:58.094] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (126 | 34 | -488)
+[17Oct2024 20:50:58.095] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (126 | 34 | -488)
+[17Oct2024 20:50:58.095] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (114 | 25 | -473)
+[17Oct2024 20:50:58.095] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (114 | 25 | -473)
+[17Oct2024 20:50:58.095] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (113 | 25 | -471)
+[17Oct2024 20:50:58.095] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (113 | 25 | -471)
+[17Oct2024 20:50:58.095] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (110 | 25 | -486)
+[17Oct2024 20:50:58.097] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (110 | 25 | -486)
+[17Oct2024 20:50:58.097] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (112 | 25 | -466)
+[17Oct2024 20:50:58.097] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (112 | 25 | -466)
+[17Oct2024 20:50:58.097] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation NONE at (124 | 25 | -465)
+[17Oct2024 20:50:58.097] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation NONE at (124 | 25 | -465)
+[17Oct2024 20:50:58.097] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (121 | 25 | -465)
+[17Oct2024 20:50:58.097] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (121 | 25 | -465)
+[17Oct2024 20:50:58.097] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner_room with rotation CLOCKWISE_90 at (118 | 16 | -482)
+[17Oct2024 20:50:58.099] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner_room with rotation CLOCKWISE_90 at (118 | 16 | -482)
+[17Oct2024 20:50:58.099] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (113 | 16 | -481)
+[17Oct2024 20:50:58.100] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (113 | 16 | -481)
+[17Oct2024 20:50:58.100] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (113 | 16 | -484)
+[17Oct2024 20:50:58.100] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (113 | 16 | -484)
+[17Oct2024 20:50:58.100] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (112 | 16 | -475)
+[17Oct2024 20:50:58.101] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (112 | 16 | -475)
+[17Oct2024 20:50:58.101] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (117 | 7 | -482)
+[17Oct2024 20:50:58.101] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (117 | 7 | -482)
+[17Oct2024 20:50:58.102] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (117 | 7 | -482)
+[17Oct2024 20:50:58.102] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (117 | 7 | -482)
+[17Oct2024 20:50:58.102] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (112 | 7 | -483)
+[17Oct2024 20:50:58.102] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (112 | 7 | -483)
+[17Oct2024 20:50:58.102] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (112 | 7 | -483)
+[17Oct2024 20:50:58.102] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (112 | 7 | -483)
+[17Oct2024 20:50:58.102] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (118 | 7 | -487)
+[17Oct2024 20:50:58.103] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (118 | 7 | -487)
+[17Oct2024 20:50:58.103] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (118 | 7 | -487)
+[17Oct2024 20:50:58.104] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (118 | 7 | -487)
+[17Oct2024 20:50:58.251] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (143 | 34 | -483)
+[17Oct2024 20:50:58.252] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (143 | 34 | -483)
+[17Oct2024 20:50:58.252] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (126 | 34 | -488)
+[17Oct2024 20:50:58.253] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (126 | 34 | -488)
+[17Oct2024 20:50:58.254] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (121 | 25 | -465)
+[17Oct2024 20:50:58.254] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (121 | 25 | -465)
+[17Oct2024 20:50:58.254] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (140 | 25 | -481)
+[17Oct2024 20:50:58.254] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (140 | 25 | -481)
+[17Oct2024 20:50:58.254] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (140 | 25 | -484)
+[17Oct2024 20:50:58.254] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (140 | 25 | -484)
+[17Oct2024 20:50:58.254] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (140 | 25 | -475)
+[17Oct2024 20:50:58.254] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (140 | 25 | -475)
+[17Oct2024 20:50:58.255] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (135 | 25 | -470)
+[17Oct2024 20:50:58.255] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (135 | 25 | -470)
+[17Oct2024 20:50:58.255] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (133 | 7 | -482)
+[17Oct2024 20:50:58.255] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (133 | 7 | -482)
+[17Oct2024 20:50:58.256] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (133 | 7 | -482)
+[17Oct2024 20:50:58.256] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (133 | 7 | -482)
+[17Oct2024 20:50:58.256] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (134 | 7 | -483)
+[17Oct2024 20:50:58.256] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (134 | 7 | -483)
+[17Oct2024 20:50:58.256] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (134 | 7 | -483)
+[17Oct2024 20:50:58.256] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (134 | 7 | -483)
+[17Oct2024 20:50:58.256] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (118 | 7 | -487)
+[17Oct2024 20:50:58.257] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (118 | 7 | -487)
+[17Oct2024 20:50:58.257] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (118 | 7 | -487)
+[17Oct2024 20:50:58.257] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (118 | 7 | -487)
+[17Oct2024 20:50:58.257] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (139 | 7 | -484)
+[17Oct2024 20:50:58.259] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (139 | 7 | -484)
+[17Oct2024 20:50:58.259] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (139 | 7 | -484)
+[17Oct2024 20:50:58.259] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (139 | 7 | -484)
+[17Oct2024 20:50:58.259] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (140 | 7 | -472)
+[17Oct2024 20:50:58.259] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (140 | 7 | -472)
+[17Oct2024 20:50:58.259] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/variant_2 at (140 | 7 | -472)
+[17Oct2024 20:50:58.259] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/variant_2 at (140 | 7 | -472)
+[17Oct2024 20:50:58.259] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (140 | 7 | -475)
+[17Oct2024 20:50:58.260] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (140 | 7 | -475)
+[17Oct2024 20:50:58.260] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (140 | 7 | -475)
+[17Oct2024 20:50:58.260] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (140 | 7 | -475)
+[17Oct2024 20:50:58.260] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (140 | 7 | -466)
+[17Oct2024 20:50:58.260] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (140 | 7 | -466)
+[17Oct2024 20:50:58.260] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (140 | 7 | -466)
+[17Oct2024 20:50:58.260] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (140 | 7 | -466)
+[17Oct2024 20:50:58.428] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (140 | 25 | -426)
+[17Oct2024 20:50:58.428] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (140 | 25 | -426)
+[17Oct2024 20:50:58.428] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation NONE at (135 | 25 | -443)
+[17Oct2024 20:50:58.428] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation NONE at (135 | 25 | -443)
+[17Oct2024 20:50:58.429] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (139 | 25 | -421)
+[17Oct2024 20:50:58.429] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (139 | 25 | -421)
+[17Oct2024 20:50:58.429] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/crumbled with rotation CLOCKWISE_90 at (141 | 13 | -428)
+[17Oct2024 20:50:58.429] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/crumbled with rotation CLOCKWISE_90 at (141 | 13 | -428)
+[17Oct2024 20:50:58.429] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/crumbled at (141 | 13 | -428)
+[17Oct2024 20:50:58.429] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/crumbled at (141 | 13 | -428)
+[17Oct2024 20:50:58.429] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (135 | 6 | -434)
+[17Oct2024 20:50:58.430] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (135 | 6 | -434)
+[17Oct2024 20:50:58.430] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (135 | 6 | -434)
+[17Oct2024 20:50:58.431] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (135 | 6 | -434)
+[17Oct2024 20:50:58.563] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation NONE at (135 | 25 | -443)
+[17Oct2024 20:50:58.564] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation NONE at (135 | 25 | -443)
+[17Oct2024 20:50:58.565] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (141 | 7 | -444)
+[17Oct2024 20:50:58.565] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (141 | 7 | -444)
+[17Oct2024 20:50:58.565] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (141 | 7 | -444)
+[17Oct2024 20:50:58.565] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (141 | 7 | -444)
+[17Oct2024 20:50:58.565] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_90 at (135 | 6 | -461)
+[17Oct2024 20:50:58.566] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_90 at (135 | 6 | -461)
+[17Oct2024 20:50:58.566] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/fountain at (135 | 6 | -461)
+[17Oct2024 20:50:58.566] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/fountain at (135 | 6 | -461)
+[17Oct2024 20:50:58.566] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (140 | 7 | -439)
+[17Oct2024 20:50:58.566] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (140 | 7 | -439)
+[17Oct2024 20:50:58.567] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (140 | 7 | -439)
+[17Oct2024 20:50:58.567] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (140 | 7 | -439)
+[17Oct2024 20:50:58.567] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (135 | 6 | -434)
+[17Oct2024 20:50:58.567] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (135 | 6 | -434)
+[17Oct2024 20:50:58.567] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (135 | 6 | -434)
+[17Oct2024 20:50:58.568] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (135 | 6 | -434)
+[17Oct2024 20:50:58.671] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (135 | 25 | -470)
+[17Oct2024 20:50:58.672] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (135 | 25 | -470)
+[17Oct2024 20:50:58.672] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (140 | 7 | -466)
+[17Oct2024 20:50:58.672] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (140 | 7 | -466)
+[17Oct2024 20:50:58.673] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (140 | 7 | -466)
+[17Oct2024 20:50:58.673] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (140 | 7 | -466)
+[17Oct2024 20:50:58.673] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_90 at (135 | 6 | -461)
+[17Oct2024 20:50:58.676] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_90 at (135 | 6 | -461)
+[17Oct2024 20:50:58.676] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/fountain at (135 | 6 | -461)
+[17Oct2024 20:50:58.677] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/fountain at (135 | 6 | -461)
+[17Oct2024 20:50:58.784] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (143 | 34 | -483)
+[17Oct2024 20:50:58.785] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (143 | 34 | -483)
+[17Oct2024 20:50:58.785] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (148 | 34 | -484)
+[17Oct2024 20:50:58.786] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (148 | 34 | -484)
+[17Oct2024 20:50:58.786] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (145 | 25 | -481)
+[17Oct2024 20:50:58.786] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (145 | 25 | -481)
+[17Oct2024 20:50:58.786] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (140 | 25 | -484)
+[17Oct2024 20:50:58.786] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (140 | 25 | -484)
+[17Oct2024 20:50:58.787] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (140 | 25 | -475)
+[17Oct2024 20:50:58.787] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (140 | 25 | -475)
+[17Oct2024 20:50:58.787] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (135 | 25 | -470)
+[17Oct2024 20:50:58.787] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_90 at (135 | 25 | -470)
+[17Oct2024 20:50:58.788] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (139 | 7 | -484)
+[17Oct2024 20:50:58.795] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (139 | 7 | -484)
+[17Oct2024 20:50:58.795] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (139 | 7 | -484)
+[17Oct2024 20:50:58.796] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (139 | 7 | -484)
+[17Oct2024 20:50:58.804] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (145 | 7 | -472)
+[17Oct2024 20:50:58.809] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (145 | 7 | -472)
+[17Oct2024 20:50:58.809] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/variant_2 at (145 | 7 | -472)
+[17Oct2024 20:50:58.809] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/variant_2 at (145 | 7 | -472)
+[17Oct2024 20:50:58.809] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (140 | 7 | -475)
+[17Oct2024 20:50:58.810] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (140 | 7 | -475)
+[17Oct2024 20:50:58.810] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (140 | 7 | -475)
+[17Oct2024 20:50:58.810] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (140 | 7 | -475)
+[17Oct2024 20:50:58.810] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (140 | 7 | -466)
+[17Oct2024 20:50:58.810] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (140 | 7 | -466)
+[17Oct2024 20:50:58.810] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (140 | 7 | -466)
+[17Oct2024 20:50:58.810] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (140 | 7 | -466)
+[17Oct2024 20:50:59.960] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (78 | 43 | -482)
+[17Oct2024 20:50:59.960] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (78 | 43 | -482)
+[17Oct2024 20:50:59.960] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (78 | 44 | -482)
+[17Oct2024 20:50:59.961] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (78 | 44 | -482)
+[17Oct2024 20:50:59.961] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (78 | 45 | -482)
+[17Oct2024 20:50:59.961] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (78 | 45 | -482)
+[17Oct2024 20:50:59.961] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (78 | 46 | -482)
+[17Oct2024 20:50:59.961] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (78 | 46 | -482)
+[17Oct2024 20:50:59.961] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (78 | 47 | -482)
+[17Oct2024 20:50:59.961] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (78 | 47 | -482)
+[17Oct2024 20:50:59.961] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (78 | 48 | -482)
+[17Oct2024 20:50:59.962] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (78 | 48 | -482)
+[17Oct2024 20:50:59.962] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (78 | 49 | -482)
+[17Oct2024 20:50:59.962] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (78 | 49 | -482)
+[17Oct2024 20:50:59.962] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (78 | 50 | -482)
+[17Oct2024 20:50:59.962] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (78 | 50 | -482)
+[17Oct2024 20:50:59.962] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (78 | 51 | -482)
+[17Oct2024 20:50:59.962] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (78 | 51 | -482)
+[17Oct2024 20:50:59.962] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (78 | 52 | -482)
+[17Oct2024 20:50:59.963] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (78 | 52 | -482)
+[17Oct2024 20:50:59.963] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (78 | 53 | -482)
+[17Oct2024 20:50:59.963] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (78 | 53 | -482)
+[17Oct2024 20:50:59.963] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (78 | 54 | -482)
+[17Oct2024 20:50:59.963] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (78 | 54 | -482)
+[17Oct2024 20:50:59.963] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (78 | 55 | -482)
+[17Oct2024 20:50:59.963] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (78 | 55 | -482)
+[17Oct2024 20:50:59.963] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (78 | 56 | -482)
+[17Oct2024 20:50:59.964] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (78 | 56 | -482)
+[17Oct2024 20:50:59.964] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (78 | 57 | -482)
+[17Oct2024 20:50:59.964] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (78 | 57 | -482)
+[17Oct2024 20:50:59.964] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (78 | 58 | -482)
+[17Oct2024 20:50:59.964] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (78 | 58 | -482)
+[17Oct2024 20:50:59.964] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (78 | 59 | -482)
+[17Oct2024 20:50:59.964] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (78 | 59 | -482)
+[17Oct2024 20:50:59.965] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (78 | 60 | -482)
+[17Oct2024 20:50:59.965] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (78 | 60 | -482)
+[17Oct2024 20:50:59.965] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (78 | 61 | -482)
+[17Oct2024 20:50:59.965] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (78 | 61 | -482)
+[17Oct2024 20:50:59.965] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (78 | 62 | -482)
+[17Oct2024 20:50:59.965] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (78 | 62 | -482)
+[17Oct2024 20:50:59.965] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:entrance/roguelike/witch_tower with rotation NONE at (74 | 63 | -486)
+[17Oct2024 20:50:59.967] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:entrance/roguelike/witch_tower with rotation NONE at (74 | 63 | -486)
+[17Oct2024 20:50:59.967] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (78 | 34 | -491)
+[17Oct2024 20:50:59.967] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (78 | 34 | -491)
+[17Oct2024 20:50:59.967] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (77 | 34 | -489)
+[17Oct2024 20:50:59.968] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (77 | 34 | -489)
+[17Oct2024 20:50:59.968] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation NONE at (74 | 34 | -504)
+[17Oct2024 20:50:59.968] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation NONE at (74 | 34 | -504)
+[17Oct2024 20:50:59.969] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (76 | 34 | -484)
+[17Oct2024 20:50:59.969] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (76 | 34 | -484)
+[17Oct2024 20:50:59.969] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/cake_room with rotation NONE at (85 | 34 | -484)
+[17Oct2024 20:50:59.970] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/cake_room with rotation NONE at (85 | 34 | -484)
+[17Oct2024 20:50:59.970] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (95 | 34 | -483)
+[17Oct2024 20:50:59.970] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (95 | 34 | -483)
+[17Oct2024 20:50:59.970] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (94 | 34 | -482)
+[17Oct2024 20:50:59.970] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (94 | 34 | -482)
+[17Oct2024 20:50:59.970] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (80 | 7 | -501)
+[17Oct2024 20:50:59.971] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (80 | 7 | -501)
+[17Oct2024 20:50:59.971] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (80 | 7 | -501)
+[17Oct2024 20:50:59.971] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (80 | 7 | -501)
+[17Oct2024 20:50:59.971] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (85 | 7 | -502)
+[17Oct2024 20:50:59.971] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (85 | 7 | -502)
+[17Oct2024 20:50:59.972] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/stairs_top at (85 | 7 | -502)
+[17Oct2024 20:50:59.972] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/stairs_top at (85 | 7 | -502)
+[17Oct2024 20:50:59.972] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (86 | 7 | -493)
+[17Oct2024 20:50:59.973] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (86 | 7 | -493)
+[17Oct2024 20:50:59.973] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (86 | 7 | -493)
+[17Oct2024 20:50:59.973] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (86 | 7 | -493)
+[17Oct2024 20:50:59.974] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (85 | 7 | -484)
+[17Oct2024 20:50:59.974] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (85 | 7 | -484)
+[17Oct2024 20:50:59.974] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (85 | 7 | -484)
+[17Oct2024 20:50:59.975] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (85 | 7 | -484)
+[17Oct2024 20:50:59.975] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (94 | 7 | -483)
+[17Oct2024 20:50:59.975] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (94 | 7 | -483)
+[17Oct2024 20:50:59.975] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (94 | 7 | -483)
+[17Oct2024 20:50:59.975] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (94 | 7 | -483)
+[17Oct2024 20:50:59.975] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_180 at (79 | -2 | -496)
+[17Oct2024 20:50:59.976] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_180 at (79 | -2 | -496)
+[17Oct2024 20:50:59.976] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (76 | -2 | -501)
+[17Oct2024 20:50:59.976] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (76 | -2 | -501)
+[17Oct2024 20:50:59.976] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (85 | -2 | -502)
+[17Oct2024 20:50:59.980] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (85 | -2 | -502)
+[17Oct2024 20:50:59.980] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (91 | -2 | -490)
+[17Oct2024 20:50:59.980] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (91 | -2 | -490)
+[17Oct2024 20:50:59.980] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (86 | -2 | -490)
+[17Oct2024 20:50:59.981] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (86 | -2 | -490)
+[17Oct2024 20:50:59.981] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (86 | -2 | -493)
+[17Oct2024 20:50:59.981] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (86 | -2 | -493)
+[17Oct2024 20:50:59.981] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (86 | -2 | -484)
+[17Oct2024 20:50:59.982] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (86 | -2 | -484)
+[17Oct2024 20:51:00.170] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (95 | 34 | -483)
+[17Oct2024 20:51:00.171] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (95 | 34 | -483)
+[17Oct2024 20:51:00.171] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation NONE at (99 | 34 | -483)
+[17Oct2024 20:51:00.171] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation NONE at (99 | 34 | -483)
+[17Oct2024 20:51:00.171] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (94 | 34 | -482)
+[17Oct2024 20:51:00.172] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation NONE at (94 | 34 | -482)
+[17Oct2024 20:51:00.172] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (103 | 34 | -483)
+[17Oct2024 20:51:00.172] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (103 | 34 | -483)
+[17Oct2024 20:51:00.172] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (110 | 25 | -486)
+[17Oct2024 20:51:00.173] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (110 | 25 | -486)
+[17Oct2024 20:51:00.173] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner_room with rotation CLOCKWISE_90 at (109 | 16 | -500)
+[17Oct2024 20:51:00.174] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner_room with rotation CLOCKWISE_90 at (109 | 16 | -500)
+[17Oct2024 20:51:00.174] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner_room with rotation COUNTERCLOCKWISE_90 at (100 | 16 | -500)
+[17Oct2024 20:51:00.175] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner_room with rotation COUNTERCLOCKWISE_90 at (100 | 16 | -500)
+[17Oct2024 20:51:00.175] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (104 | 16 | -502)
+[17Oct2024 20:51:00.175] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (104 | 16 | -502)
+[17Oct2024 20:51:00.176] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/light with rotation CLOCKWISE_90 at (106 | 21 | -490)
+[17Oct2024 20:51:00.176] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/light with rotation CLOCKWISE_90 at (106 | 21 | -490)
+[17Oct2024 20:51:00.176] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/light_switch with rotation CLOCKWISE_90 at (109 | 16 | -490)
+[17Oct2024 20:51:00.177] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/light_switch with rotation CLOCKWISE_90 at (109 | 16 | -490)
+[17Oct2024 20:51:00.177] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation COUNTERCLOCKWISE_90 at (104 | 16 | -490)
+[17Oct2024 20:51:00.177] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation COUNTERCLOCKWISE_90 at (104 | 16 | -490)
+[17Oct2024 20:51:00.177] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_light with rotation CLOCKWISE_90 at (104 | 16 | -493)
+[17Oct2024 20:51:00.178] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_light with rotation CLOCKWISE_90 at (104 | 16 | -493)
+[17Oct2024 20:51:00.178] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (103 | 16 | -484)
+[17Oct2024 20:51:00.179] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (103 | 16 | -484)
+[17Oct2024 20:51:00.179] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (97 | 7 | -483)
+[17Oct2024 20:51:00.179] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (97 | 7 | -483)
+[17Oct2024 20:51:00.180] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/default at (97 | 7 | -483)
+[17Oct2024 20:51:00.180] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/default at (97 | 7 | -483)
+[17Oct2024 20:51:00.180] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (94 | 7 | -483)
+[17Oct2024 20:51:00.180] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (94 | 7 | -483)
+[17Oct2024 20:51:00.180] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (94 | 7 | -483)
+[17Oct2024 20:51:00.180] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (94 | 7 | -483)
+[17Oct2024 20:51:00.180] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (103 | 7 | -484)
+[17Oct2024 20:51:00.181] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (103 | 7 | -484)
+[17Oct2024 20:51:00.181] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/stairs_bottom at (103 | 7 | -484)
+[17Oct2024 20:51:00.182] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/stairs_bottom at (103 | 7 | -484)
+[17Oct2024 20:51:00.276] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (112 | 34 | -484)
+[17Oct2024 20:51:00.276] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (112 | 34 | -484)
+[17Oct2024 20:51:00.276] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation NONE at (121 | 34 | -482)
+[17Oct2024 20:51:00.276] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation NONE at (121 | 34 | -482)
+[17Oct2024 20:51:00.276] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (126 | 34 | -488)
+[17Oct2024 20:51:00.276] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (126 | 34 | -488)
+[17Oct2024 20:51:00.277] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (113 | 25 | -497)
+[17Oct2024 20:51:00.277] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (113 | 25 | -497)
+[17Oct2024 20:51:00.277] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (118 | 25 | -497)
+[17Oct2024 20:51:00.277] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (118 | 25 | -497)
+[17Oct2024 20:51:00.277] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (114 | 25 | -502)
+[17Oct2024 20:51:00.277] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (114 | 25 | -502)
+[17Oct2024 20:51:00.277] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (114 | 25 | -488)
+[17Oct2024 20:51:00.277] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (114 | 25 | -488)
+[17Oct2024 20:51:00.277] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (114 | 25 | -493)
+[17Oct2024 20:51:00.277] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (114 | 25 | -493)
+[17Oct2024 20:51:00.277] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (110 | 25 | -486)
+[17Oct2024 20:51:00.278] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation COUNTERCLOCKWISE_90 at (110 | 25 | -486)
+[17Oct2024 20:51:00.278] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner_room with rotation CLOCKWISE_90 at (109 | 16 | -500)
+[17Oct2024 20:51:00.278] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner_room with rotation CLOCKWISE_90 at (109 | 16 | -500)
+[17Oct2024 20:51:00.278] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (113 | 16 | -502)
+[17Oct2024 20:51:00.278] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (113 | 16 | -502)
+[17Oct2024 20:51:00.278] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (112 | 16 | -493)
+[17Oct2024 20:51:00.279] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (112 | 16 | -493)
+[17Oct2024 20:51:00.280] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner_room with rotation CLOCKWISE_90 at (118 | 16 | -482)
+[17Oct2024 20:51:00.280] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner_room with rotation CLOCKWISE_90 at (118 | 16 | -482)
+[17Oct2024 20:51:00.280] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (113 | 16 | -481)
+[17Oct2024 20:51:00.280] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (113 | 16 | -481)
+[17Oct2024 20:51:00.280] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (113 | 16 | -484)
+[17Oct2024 20:51:00.280] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (113 | 16 | -484)
+[17Oct2024 20:51:00.280] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation NONE at (124 | 16 | -492)
+[17Oct2024 20:51:00.280] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation NONE at (124 | 16 | -492)
+[17Oct2024 20:51:00.281] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_180 at (124 | 16 | -487)
+[17Oct2024 20:51:00.281] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_180 at (124 | 16 | -487)
+[17Oct2024 20:51:00.281] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (121 | 16 | -492)
+[17Oct2024 20:51:00.281] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (121 | 16 | -492)
+[17Oct2024 20:51:00.281] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (117 | 7 | -482)
+[17Oct2024 20:51:00.281] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (117 | 7 | -482)
+[17Oct2024 20:51:00.281] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (117 | 7 | -482)
+[17Oct2024 20:51:00.281] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (117 | 7 | -482)
+[17Oct2024 20:51:00.281] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (112 | 7 | -483)
+[17Oct2024 20:51:00.281] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (112 | 7 | -483)
+[17Oct2024 20:51:00.281] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (112 | 7 | -483)
+[17Oct2024 20:51:00.281] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (112 | 7 | -483)
+[17Oct2024 20:51:00.282] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (118 | 7 | -487)
+[17Oct2024 20:51:00.282] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (118 | 7 | -487)
+[17Oct2024 20:51:00.282] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (118 | 7 | -487)
+[17Oct2024 20:51:00.283] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (118 | 7 | -487)
+[17Oct2024 20:51:00.418] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (143 | 34 | -483)
+[17Oct2024 20:51:00.418] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (143 | 34 | -483)
+[17Oct2024 20:51:00.418] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (126 | 34 | -488)
+[17Oct2024 20:51:00.421] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (126 | 34 | -488)
+[17Oct2024 20:51:00.421] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (139 | 25 | -493)
+[17Oct2024 20:51:00.422] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (139 | 25 | -493)
+[17Oct2024 20:51:00.422] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (140 | 25 | -481)
+[17Oct2024 20:51:00.422] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (140 | 25 | -481)
+[17Oct2024 20:51:00.422] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (140 | 25 | -484)
+[17Oct2024 20:51:00.422] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (140 | 25 | -484)
+[17Oct2024 20:51:00.422] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (121 | 16 | -492)
+[17Oct2024 20:51:00.423] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (121 | 16 | -492)
+[17Oct2024 20:51:00.423] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_90 at (141 | 21 | -491)
+[17Oct2024 20:51:00.423] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_90 at (141 | 21 | -491)
+[17Oct2024 20:51:00.423] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (136 | 16 | -485)
+[17Oct2024 20:51:00.428] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (136 | 16 | -485)
+[17Oct2024 20:51:00.428] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (140 | 16 | -485)
+[17Oct2024 20:51:00.428] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (140 | 16 | -485)
+[17Oct2024 20:51:00.431] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation NONE at (130 | 16 | -491)
+[17Oct2024 20:51:00.431] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation NONE at (130 | 16 | -491)
+[17Oct2024 20:51:00.431] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_90 at (135 | 16 | -497)
+[17Oct2024 20:51:00.432] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_90 at (135 | 16 | -497)
+[17Oct2024 20:51:00.432] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (133 | 7 | -482)
+[17Oct2024 20:51:00.432] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (133 | 7 | -482)
+[17Oct2024 20:51:00.432] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (133 | 7 | -482)
+[17Oct2024 20:51:00.432] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (133 | 7 | -482)
+[17Oct2024 20:51:00.433] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (134 | 7 | -483)
+[17Oct2024 20:51:00.433] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (134 | 7 | -483)
+[17Oct2024 20:51:00.433] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (134 | 7 | -483)
+[17Oct2024 20:51:00.433] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (134 | 7 | -483)
+[17Oct2024 20:51:00.433] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (118 | 7 | -487)
+[17Oct2024 20:51:00.433] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (118 | 7 | -487)
+[17Oct2024 20:51:00.433] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (118 | 7 | -487)
+[17Oct2024 20:51:00.435] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (118 | 7 | -487)
+[17Oct2024 20:51:00.435] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (139 | 7 | -484)
+[17Oct2024 20:51:00.435] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (139 | 7 | -484)
+[17Oct2024 20:51:00.435] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (139 | 7 | -484)
+[17Oct2024 20:51:00.436] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (139 | 7 | -484)
+[17Oct2024 20:51:00.572] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (143 | 34 | -483)
+[17Oct2024 20:51:00.573] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (143 | 34 | -483)
+[17Oct2024 20:51:00.573] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (148 | 34 | -484)
+[17Oct2024 20:51:00.573] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (148 | 34 | -484)
+[17Oct2024 20:51:00.573] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (139 | 25 | -493)
+[17Oct2024 20:51:00.574] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (139 | 25 | -493)
+[17Oct2024 20:51:00.574] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (145 | 25 | -481)
+[17Oct2024 20:51:00.574] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (145 | 25 | -481)
+[17Oct2024 20:51:00.574] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (140 | 25 | -484)
+[17Oct2024 20:51:00.574] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (140 | 25 | -484)
+[17Oct2024 20:51:00.574] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_90 at (141 | 21 | -491)
+[17Oct2024 20:51:00.574] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_90 at (141 | 21 | -491)
+[17Oct2024 20:51:00.574] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (147 | 16 | -496)
+[17Oct2024 20:51:00.575] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (147 | 16 | -496)
+[17Oct2024 20:51:00.575] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (147 | 16 | -492)
+[17Oct2024 20:51:00.576] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (147 | 16 | -492)
+[17Oct2024 20:51:00.576] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (140 | 16 | -485)
+[17Oct2024 20:51:00.577] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (140 | 16 | -485)
+[17Oct2024 20:51:00.577] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_90 at (135 | 16 | -497)
+[17Oct2024 20:51:00.578] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_90 at (135 | 16 | -497)
+[17Oct2024 20:51:00.578] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (139 | 7 | -484)
+[17Oct2024 20:51:00.578] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (139 | 7 | -484)
+[17Oct2024 20:51:00.578] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (139 | 7 | -484)
+[17Oct2024 20:51:00.578] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (139 | 7 | -484)
+[17Oct2024 20:51:02.398] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:magic_missile spellLevel:3, isClient:false
+[17Oct2024 20:51:02.399] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:magic_missile(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:51:02.399] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:51:02.399] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:51:02.399] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:51:02.400] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:magic_missile(3), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:51:02.400] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:magic_missile(3), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:51:02.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
+[17Oct2024 20:51:05.577] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation NONE at (74 | 34 | -504)
+[17Oct2024 20:51:05.578] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation NONE at (74 | 34 | -504)
+[17Oct2024 20:51:05.578] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (76 | 25 | -511)
+[17Oct2024 20:51:05.579] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (76 | 25 | -511)
+[17Oct2024 20:51:05.579] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_180 at (90 | 25 | -505)
+[17Oct2024 20:51:05.579] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_180 at (90 | 25 | -505)
+[17Oct2024 20:51:05.579] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_180 at (86 | 25 | -505)
+[17Oct2024 20:51:05.579] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_180 at (86 | 25 | -505)
+[17Oct2024 20:51:05.579] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation NONE at (90 | 25 | -512)
+[17Oct2024 20:51:05.579] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation NONE at (90 | 25 | -512)
+[17Oct2024 20:51:05.579] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation NONE at (86 | 25 | -510)
+[17Oct2024 20:51:05.581] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation NONE at (86 | 25 | -510)
+[17Oct2024 20:51:05.581] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (85 | 25 | -509)
+[17Oct2024 20:51:05.581] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (85 | 25 | -509)
+[17Oct2024 20:51:05.581] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (94 | 25 | -510)
+[17Oct2024 20:51:05.581] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (94 | 25 | -510)
+[17Oct2024 20:51:05.581] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (80 | 7 | -501)
+[17Oct2024 20:51:05.582] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (80 | 7 | -501)
+[17Oct2024 20:51:05.582] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (80 | 7 | -501)
+[17Oct2024 20:51:05.582] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (80 | 7 | -501)
+[17Oct2024 20:51:05.582] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (85 | 7 | -502)
+[17Oct2024 20:51:05.583] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (85 | 7 | -502)
+[17Oct2024 20:51:05.583] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/stairs_top at (85 | 7 | -502)
+[17Oct2024 20:51:05.583] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/stairs_top at (85 | 7 | -502)
+[17Oct2024 20:51:05.583] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (79 | -2 | -501)
+[17Oct2024 20:51:05.583] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (79 | -2 | -501)
+[17Oct2024 20:51:05.583] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (76 | -2 | -501)
+[17Oct2024 20:51:05.584] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (76 | -2 | -501)
+[17Oct2024 20:51:05.584] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (86 | -2 | -520)
+[17Oct2024 20:51:05.584] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (86 | -2 | -520)
+[17Oct2024 20:51:05.584] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation COUNTERCLOCKWISE_90 at (86 | -2 | -508)
+[17Oct2024 20:51:05.585] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation COUNTERCLOCKWISE_90 at (86 | -2 | -508)
+[17Oct2024 20:51:05.585] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (91 | -2 | -508)
+[17Oct2024 20:51:05.585] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (91 | -2 | -508)
+[17Oct2024 20:51:05.585] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (86 | -2 | -511)
+[17Oct2024 20:51:05.587] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (86 | -2 | -511)
+[17Oct2024 20:51:05.587] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (85 | -2 | -502)
+[17Oct2024 20:51:05.588] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (85 | -2 | -502)
+[17Oct2024 20:51:05.729] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (94 | 25 | -510)
+[17Oct2024 20:51:05.730] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (94 | 25 | -510)
+[17Oct2024 20:51:05.730] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/empty_room_2 with rotation CLOCKWISE_180 at (105 | 25 | -505)
+[17Oct2024 20:51:05.730] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/empty_room_2 with rotation CLOCKWISE_180 at (105 | 25 | -505)
+[17Oct2024 20:51:05.730] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation NONE at (106 | 25 | -510)
+[17Oct2024 20:51:05.731] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation NONE at (106 | 25 | -510)
+[17Oct2024 20:51:05.731] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (103 | 25 | -510)
+[17Oct2024 20:51:05.731] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (103 | 25 | -510)
+[17Oct2024 20:51:05.731] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (103 | 16 | -511)
+[17Oct2024 20:51:05.733] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (103 | 16 | -511)
+[17Oct2024 20:51:05.733] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner_room with rotation CLOCKWISE_90 at (109 | 16 | -500)
+[17Oct2024 20:51:05.734] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner_room with rotation CLOCKWISE_90 at (109 | 16 | -500)
+[17Oct2024 20:51:05.734] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner_room with rotation COUNTERCLOCKWISE_90 at (100 | 16 | -500)
+[17Oct2024 20:51:05.734] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner_room with rotation COUNTERCLOCKWISE_90 at (100 | 16 | -500)
+[17Oct2024 20:51:05.734] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (104 | 16 | -502)
+[17Oct2024 20:51:05.735] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (104 | 16 | -502)
+[17Oct2024 20:51:05.972] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (113 | 25 | -520)
+[17Oct2024 20:51:05.979] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (113 | 25 | -520)
+[17Oct2024 20:51:05.979] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_top with rotation NONE at (112 | 25 | -511)
+[17Oct2024 20:51:05.980] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (112 | 25 | -511)
+[17Oct2024 20:51:05.981] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (113 | 25 | -497)
+[17Oct2024 20:51:05.981] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (113 | 25 | -497)
+[17Oct2024 20:51:05.981] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (113 | 25 | -501)
+[17Oct2024 20:51:05.981] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (113 | 25 | -501)
+[17Oct2024 20:51:05.981] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (118 | 25 | -497)
+[17Oct2024 20:51:05.981] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_90 at (118 | 25 | -497)
+[17Oct2024 20:51:05.981] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (118 | 25 | -501)
+[17Oct2024 20:51:05.981] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (118 | 25 | -501)
+[17Oct2024 20:51:05.982] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (114 | 25 | -502)
+[17Oct2024 20:51:05.982] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (114 | 25 | -502)
+[17Oct2024 20:51:05.982] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (126 | 25 | -509)
+[17Oct2024 20:51:05.983] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (126 | 25 | -509)
+[17Oct2024 20:51:05.983] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (121 | 25 | -509)
+[17Oct2024 20:51:05.983] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (121 | 25 | -509)
+[17Oct2024 20:51:05.983] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner_room with rotation CLOCKWISE_90 at (109 | 16 | -500)
+[17Oct2024 20:51:05.983] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner_room with rotation CLOCKWISE_90 at (109 | 16 | -500)
+[17Oct2024 20:51:05.984] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (112 | 16 | -511)
+[17Oct2024 20:51:05.985] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (112 | 16 | -511)
+[17Oct2024 20:51:05.985] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (113 | 16 | -502)
+[17Oct2024 20:51:05.985] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (113 | 16 | -502)
+[17Oct2024 20:51:06.093] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation NONE at (128 | 25 | -513)
+[17Oct2024 20:51:06.095] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation NONE at (128 | 25 | -513)
+[17Oct2024 20:51:06.096] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (140 | 16 | -507)
+[17Oct2024 20:51:06.096] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (140 | 16 | -507)
+[17Oct2024 20:51:06.096] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers with rotation COUNTERCLOCKWISE_90 at (135 | 15 | -524)
+[17Oct2024 20:51:06.096] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers with rotation COUNTERCLOCKWISE_90 at (135 | 15 | -524)
+[17Oct2024 20:51:06.097] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (140 | 16 | -502)
+[17Oct2024 20:51:06.097] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (140 | 16 | -502)
+[17Oct2024 20:51:06.097] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_90 at (135 | 16 | -497)
+[17Oct2024 20:51:06.097] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_90 at (135 | 16 | -497)
+[17Oct2024 20:51:06.209] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (140 | 16 | -507)
+[17Oct2024 20:51:06.209] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (140 | 16 | -507)
+[17Oct2024 20:51:06.209] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers with rotation COUNTERCLOCKWISE_90 at (135 | 15 | -524)
+[17Oct2024 20:51:06.210] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers with rotation COUNTERCLOCKWISE_90 at (135 | 15 | -524)
+[17Oct2024 20:51:06.210] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (140 | 16 | -502)
+[17Oct2024 20:51:06.210] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (140 | 16 | -502)
+[17Oct2024 20:51:06.210] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_90 at (135 | 16 | -497)
+[17Oct2024 20:51:06.210] [Worker-Main-94/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_90 at (135 | 16 | -497)
+[17Oct2024 20:51:13.433] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:icicle spellLevel:3, isClient:false
+[17Oct2024 20:51:13.433] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:icicle(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:51:13.433] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:51:13.433] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:51:13.433] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:51:13.434] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:icicle(3), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:51:13.434] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:icicle(3), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:51:15.802] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:51:15.802] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:51:19.624] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:icicle spellLevel:1, isClient:false
+[17Oct2024 20:51:19.624] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:icicle(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:51:19.624] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:51:19.624] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:51:19.624] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:51:19.624] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:icicle(1), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:51:19.624] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:icicle(1), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:51:22.518] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (85 | -2 | -529)
+[17Oct2024 20:51:22.518] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (85 | -2 | -529)
+[17Oct2024 20:51:22.519] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (86 | -2 | -520)
+[17Oct2024 20:51:22.519] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (86 | -2 | -520)
+[17Oct2024 20:51:22.674] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (113 | 25 | -524)
+[17Oct2024 20:51:22.674] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation COUNTERCLOCKWISE_90 at (113 | 25 | -524)
+[17Oct2024 20:51:22.674] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation COUNTERCLOCKWISE_90 at (113 | 25 | -528)
+[17Oct2024 20:51:22.674] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation COUNTERCLOCKWISE_90 at (113 | 25 | -528)
+[17Oct2024 20:51:22.674] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (118 | 25 | -524)
+[17Oct2024 20:51:22.674] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_90 at (118 | 25 | -524)
+[17Oct2024 20:51:22.675] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (118 | 25 | -528)
+[17Oct2024 20:51:22.675] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (118 | 25 | -528)
+[17Oct2024 20:51:22.675] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (114 | 25 | -529)
+[17Oct2024 20:51:22.675] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation COUNTERCLOCKWISE_90 at (114 | 25 | -529)
+[17Oct2024 20:51:22.675] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation COUNTERCLOCKWISE_90 at (113 | 25 | -517)
+[17Oct2024 20:51:22.676] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation COUNTERCLOCKWISE_90 at (113 | 25 | -517)
+[17Oct2024 20:51:22.676] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (118 | 25 | -517)
+[17Oct2024 20:51:22.676] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (118 | 25 | -517)
+[17Oct2024 20:51:22.676] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (113 | 25 | -520)
+[17Oct2024 20:51:22.677] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (113 | 25 | -520)
+[17Oct2024 20:51:22.913] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation NONE at (128 | 25 | -513)
+[17Oct2024 20:51:22.913] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation NONE at (128 | 25 | -513)
+[17Oct2024 20:51:22.913] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation COUNTERCLOCKWISE_90 at (141 | 22 | -518)
+[17Oct2024 20:51:22.913] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation COUNTERCLOCKWISE_90 at (141 | 22 | -518)
+[17Oct2024 20:51:22.913] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (140 | 16 | -529)
+[17Oct2024 20:51:22.914] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (140 | 16 | -529)
+[17Oct2024 20:51:22.914] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers with rotation COUNTERCLOCKWISE_90 at (135 | 15 | -524)
+[17Oct2024 20:51:22.915] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers with rotation COUNTERCLOCKWISE_90 at (135 | 15 | -524)
+[17Oct2024 20:51:22.990] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation COUNTERCLOCKWISE_90 at (141 | 22 | -518)
+[17Oct2024 20:51:22.990] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation COUNTERCLOCKWISE_90 at (141 | 22 | -518)
+[17Oct2024 20:51:22.990] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (140 | 16 | -529)
+[17Oct2024 20:51:22.990] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (140 | 16 | -529)
+[17Oct2024 20:51:22.990] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers with rotation COUNTERCLOCKWISE_90 at (135 | 15 | -524)
+[17Oct2024 20:51:22.992] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers with rotation COUNTERCLOCKWISE_90 at (135 | 15 | -524)
+[17Oct2024 20:51:24.505] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:51:24.505] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:51:26.024] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:magic_missile spellLevel:2, isClient:false
+[17Oct2024 20:51:26.024] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:magic_missile(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:2, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:51:26.024] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:51:26.024] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:51:26.024] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:51:26.025] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:magic_missile(2), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:2, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:51:26.025] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:magic_missile(2), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:2, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:51:32.074] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:magic_missile spellLevel:1, isClient:false
+[17Oct2024 20:51:32.075] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:magic_missile(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:51:32.075] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:51:32.075] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:51:32.075] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:51:32.075] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:magic_missile(1), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:51:32.075] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:magic_missile(1), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:51:37.876] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:magic_missile spellLevel:1, isClient:false
+[17Oct2024 20:51:37.876] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:magic_missile(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:51:37.876] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:51:37.876] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:51:37.876] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:51:37.876] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:magic_missile(1), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:51:37.876] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:magic_missile(1), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:51:47.300] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:icicle spellLevel:2, isClient:false
+[17Oct2024 20:51:47.301] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:icicle(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:2, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:51:47.301] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:51:47.301] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:51:47.301] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:51:47.302] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:icicle(2), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:2, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:51:47.302] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:icicle(2), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:2, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:51:56.625] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:magic_missile spellLevel:3, isClient:false
+[17Oct2024 20:51:56.625] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:magic_missile(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:51:56.625] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:51:56.625] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:51:56.625] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:51:56.626] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:magic_missile(3), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:51:56.626] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:magic_missile(3), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:52:05.424] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:icicle spellLevel:1, isClient:false
+[17Oct2024 20:52:05.424] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:icicle(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:52:05.424] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:52:05.424] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:52:05.425] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:52:05.425] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:icicle(1), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:52:05.425] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:icicle(1), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:52:12.984] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:magic_missile spellLevel:2, isClient:false
+[17Oct2024 20:52:12.984] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:magic_missile(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:2, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:52:12.984] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:52:12.985] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:52:12.985] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:52:12.985] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:magic_missile(2), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:2, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:52:12.985] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:magic_missile(2), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:2, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:52:14.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Oct2024 20:52:17.075] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:none spellLevel:3, isClient:false
+[17Oct2024 20:52:23.243] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:52:23.243] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:52:27.655] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:52:27.655] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:52:31.375] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:magic_missile spellLevel:3, isClient:false
+[17Oct2024 20:52:31.375] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:magic_missile(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:52:31.375] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:52:31.375] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:52:31.375] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:52:31.376] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:magic_missile(3), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:52:31.376] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:magic_missile(3), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:52:38.860] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:52:38.860] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:52:48.874] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:magic_missile spellLevel:1, isClient:false
+[17Oct2024 20:52:48.874] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:magic_missile(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:52:48.874] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:52:48.874] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:52:48.874] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:52:48.874] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:magic_missile(1), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:52:48.874] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:magic_missile(1), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:52:55.276] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:icicle spellLevel:2, isClient:false
+[17Oct2024 20:52:55.276] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:icicle(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:2, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:52:55.276] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:52:55.276] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:52:55.276] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:52:55.276] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:icicle(2), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:2, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:52:55.276] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:icicle(2), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:2, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:52:59.024] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:icicle spellLevel:2, isClient:false
+[17Oct2024 20:52:59.025] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:icicle(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:2, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:52:59.025] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:52:59.025] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:52:59.025] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:52:59.025] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:icicle(2), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:2, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:52:59.025] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:icicle(2), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:2, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:53:02.889] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:icicle spellLevel:1, isClient:false
+[17Oct2024 20:53:02.889] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:icicle(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:53:02.889] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:53:02.889] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:53:02.889] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:53:02.889] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:icicle(1), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:53:02.889] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:icicle(1), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:53:04.918] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:icicle spellLevel:1, isClient:false
+[17Oct2024 20:53:04.918] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:icicle(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:53:04.918] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:53:04.918] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:53:04.918] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:53:04.919] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:icicle(1), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:53:04.919] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:icicle(1), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:53:15.236] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:53:15.236] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:53:16.174] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:magic_missile spellLevel:3, isClient:false
+[17Oct2024 20:53:16.174] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:magic_missile(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:53:16.174] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:53:16.175] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:53:16.175] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:53:16.175] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:magic_missile(3), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:53:16.175] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:magic_missile(3), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:53:19.812] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:53:19.812] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:53:28.079] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:magic_missile spellLevel:1, isClient:false
+[17Oct2024 20:53:28.079] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:magic_missile(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:53:28.079] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:53:28.079] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:53:28.079] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:53:28.079] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:magic_missile(1), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:53:28.079] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:magic_missile(1), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:53:31.575] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:icicle spellLevel:1, isClient:false
+[17Oct2024 20:53:31.575] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:icicle(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:53:31.575] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:53:31.575] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:53:31.575] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:53:31.575] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:icicle(1), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:53:31.575] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:icicle(1), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:53:34.745] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:53:34.746] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:53:40.835] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:53:40.835] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:53:40.835] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:53:40.835] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:53:43.424] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:magic_missile spellLevel:3, isClient:false
+[17Oct2024 20:53:43.424] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:magic_missile(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:53:43.424] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:53:43.424] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:53:43.424] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:53:43.424] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:magic_missile(3), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:53:43.424] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:magic_missile(3), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:53:44.442] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:53:44.442] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:53:46.752] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:53:46.752] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:53:49.023] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:icicle spellLevel:2, isClient:false
+[17Oct2024 20:53:49.023] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:icicle(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:2, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:53:49.023] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:53:49.023] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:53:49.023] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:53:49.024] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:icicle(2), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:2, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:53:49.024] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:icicle(2), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:2, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:53:50.034] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:53:50.034] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:53:52.542] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:magic_missile spellLevel:1, isClient:false
+[17Oct2024 20:53:52.543] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:magic_missile(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:53:52.543] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:53:52.543] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:53:52.543] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:53:52.544] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:magic_missile(1), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:53:52.544] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:magic_missile(1), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:53:56.773] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:icicle spellLevel:3, isClient:false
+[17Oct2024 20:53:56.774] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:icicle(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:53:56.774] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:53:56.774] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:53:56.774] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:53:56.774] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:icicle(3), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:53:56.774] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:icicle(3), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:54:01.852] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:54:01.852] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:54:02.224] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:magic_missile spellLevel:3, isClient:false
+[17Oct2024 20:54:02.224] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:magic_missile(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:54:02.225] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:54:02.225] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:54:02.225] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:54:02.225] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:magic_missile(3), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:54:02.225] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:magic_missile(3), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:54:02.341] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:54:02.341] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:54:02.537] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:54:02.538] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:54:02.940] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:54:02.940] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:54:03.203] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:54:03.203] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:54:03.342] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:54:03.342] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:54:03.487] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:54:03.488] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:54:03.637] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:54:03.637] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:54:03.786] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:54:03.786] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:54:04.087] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:54:04.087] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:54:04.389] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:54:04.390] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:54:04.948] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:54:04.948] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:54:09.081] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:icicle spellLevel:1, isClient:false
+[17Oct2024 20:54:09.082] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:icicle(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:54:09.082] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:54:09.082] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:54:09.082] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:54:09.083] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:icicle(1), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:54:09.083] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:icicle(1), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:54:13.275] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:icicle spellLevel:1, isClient:false
+[17Oct2024 20:54:13.275] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:icicle(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:54:13.275] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:54:13.275] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:54:13.275] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:54:13.276] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:icicle(1), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:54:13.276] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:icicle(1), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:54:17.389] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:54:17.389] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:54:17.389] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:54:17.389] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:54:17.474] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:icicle spellLevel:3, isClient:false
+[17Oct2024 20:54:17.474] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:icicle(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:54:17.474] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:54:17.474] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:54:17.474] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:54:17.475] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:icicle(3), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:54:17.475] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:icicle(3), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:54:21.045] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:magic_missile spellLevel:2, isClient:false
+[17Oct2024 20:54:21.046] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:magic_missile(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:2, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:54:21.046] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:54:21.046] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:54:21.046] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:54:21.046] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:magic_missile(2), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:2, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:54:21.046] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:magic_missile(2), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:2, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:54:24.929] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:none spellLevel:3, isClient:false
+[17Oct2024 20:54:30.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tioskrollex4: Set own game mode to Creative Mode]
+[17Oct2024 20:54:30.805] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:54:30.805] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:54:30.805] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:54:30.805] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:54:32.373] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:icicle spellLevel:1, isClient:false
+[17Oct2024 20:54:32.374] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:icicle(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:54:32.374] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:54:32.374] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:54:32.374] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:54:32.374] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:icicle(1), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:54:32.374] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:icicle(1), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:54:41.218] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:54:41.218] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:54:43.901] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:54:43.902] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:54:53.895] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 20:54:53.895] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 20:54:55.125] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:magic_missile spellLevel:1, isClient:false
+[17Oct2024 20:54:55.125] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:magic_missile(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:54:55.125] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:54:55.125] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:54:55.125] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:54:55.125] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:magic_missile(1), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:54:55.125] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:magic_missile(1), pmd:isCasting:true, spellID:irons_spellbooks:magic_missile], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:55:02.146] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:icicle spellLevel:1, isClient:false
+[17Oct2024 20:55:02.147] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:icicle(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:55:02.147] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[17Oct2024 20:55:02.147] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[17Oct2024 20:55:02.147] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[17Oct2024 20:55:02.148] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:icicle(1), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[17Oct2024 20:55:02.148] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:icicle(1), pmd:isCasting:true, spellID:irons_spellbooks:icicle], spellLevel:1, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[17Oct2024 20:55:03.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind

@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-10-17 20:45:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2024-10-17 20:08:04 +0000",
@@ -324,6 +330,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2024-10-17 20:01:28 +0000",
+      "golden_apple": "2024-10-17 20:41:35 +0000",
       "rotten_flesh": "2024-10-17 20:37:43 +0000",
       "carrot": "2024-10-17 20:37:39 +0000"
     },
