@@ -975,3 +975,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Oct2024 02:53:54.527] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER lost connection: Timed out
 [17Oct2024 02:53:54.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COOPER left the game
 [17Oct2024 02:53:54.652] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Oct2024 02:58:25.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VanessaRS lost connection: Timed out
+[17Oct2024 02:58:25.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VanessaRS left the game
