@@ -926,3 +926,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Oct2024 02:15:44.944] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [17Oct2024 02:15:44.945] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [17Oct2024 02:15:44.945] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Oct2024 02:16:30.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VanessaRS has made the advancement [Shards of the Past]
+[17Oct2024 02:18:27.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! -2.0377021010163503,-11.444752998110133,-0.9757561211837924
+[17Oct2024 02:19:00.412] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Charlotte'/203, l='ServerLevel[world]', x=-425.91, y=63.00, z=-317.04] died, message: 'Charlotte went up in flames'
+[17Oct2024 02:19:00.427] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Charlotte'/203, l='ServerLevel[world]', x=-425.91, y=63.00, z=-317.04] died: Charlotte went up in flames
+[17Oct2024 02:19:15.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! 8.765813438972486,4.50000017880636,-3.859475043677378
+[17Oct2024 02:19:59.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> me puedo chetar?
+[17Oct2024 02:20:03.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> jasjsaj
+[17Oct2024 02:21:19.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! -9.680136134522286,1.1767592750642422,2.3592807455095794
+[17Oct2024 02:23:02.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! 10.064049054769214,-0.4980114857931568,2.1512100254741995
+[17Oct2024 02:24:00.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VanessaRS> si quiere
+[17Oct2024 02:24:12.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> ayiuda
+[17Oct2024 02:24:22.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> soy la princesa enxerrada en la torre
+[17Oct2024 02:24:28.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VanessaRS> JAJAJA
+[17Oct2024 02:24:56.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> fotico pal grupo
