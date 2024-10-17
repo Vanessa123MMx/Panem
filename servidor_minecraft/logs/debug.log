@@ -7112,3 +7112,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Oct2024 18:07:37.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Set own game mode to Survival Mode]
 [17Oct2024 18:08:11.498] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [17Oct2024 18:08:11.498] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 18:10:31.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Oct2024 18:10:31.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Oct2024 18:14:27.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VanessaRS has made the advancement [Diamonds!]
+[17Oct2024 18:15:28.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Set own game mode to Creative Mode]
+[17Oct2024 18:15:31.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Oct2024 18:15:31.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Oct2024 18:16:54.001] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 18:16:54.002] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 18:16:55.077] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 18:16:55.078] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 18:17:02.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Set own game mode to Survival Mode]
+[17Oct2024 18:17:04.781] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 18:17:04.781] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 18:17:39.313] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 18:17:39.313] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 18:17:39.662] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 18:17:39.662] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Oct2024 18:18:49.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Set own game mode to Creative Mode]

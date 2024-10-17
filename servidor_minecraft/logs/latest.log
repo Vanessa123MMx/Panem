@@ -893,3 +893,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Oct2024 18:06:33.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Set own game mode to Creative Mode]
 [17Oct2024 18:07:25.594] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@257a1e9a
 [17Oct2024 18:07:37.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Set own game mode to Survival Mode]
+[17Oct2024 18:14:27.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VanessaRS has made the advancement [Diamonds!]
+[17Oct2024 18:15:28.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Set own game mode to Creative Mode]
+[17Oct2024 18:17:02.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Set own game mode to Survival Mode]
+[17Oct2024 18:18:49.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Set own game mode to Creative Mode]
