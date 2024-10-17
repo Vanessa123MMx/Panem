@@ -875,3 +875,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Oct2024 01:41:32.110] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
 [17Oct2024 01:41:32.111] [Server thread/INFO] [Jade/]: Syncing config to COOPER (23b79e12-a3fd-36c8-952c-21fe30c6d1e7)
 [17Oct2024 01:42:58.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! -0.4146658782106556,0.0,-10.11524868311406
+[17Oct2024 01:51:55.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> vane
+[17Oct2024 01:52:03.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> venga a ver
+[17Oct2024 01:52:14.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VanessaRS> voy
+[17Oct2024 01:52:56.208] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@9a8074
+[17Oct2024 01:53:07.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> esta casi terminada
+[17Oct2024 01:53:09.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VanessaRS> wao dio mio
+[17Oct2024 01:53:23.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> faltan 2 subsuelos
