@@ -943,3 +943,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Oct2024 02:30:24.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VanessaRS> donde peldon no vi el mensaje
 [17Oct2024 02:34:13.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COOPER has made the advancement [Limit Breaker]
 [17Oct2024 02:36:05.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> lo mejor de lo mejor estoy creando
+[17Oct2024 02:39:54.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> vane
+[17Oct2024 02:42:53.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! 9.121138168567654,3.3749998012663553,2.752163726986055
+[17Oct2024 02:43:07.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! 2.4957865380082467,4.213953699418667,8.805977709877823
+[17Oct2024 02:43:30.579] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Pat'/199, l='ServerLevel[world]', x=-421.08, y=64.00, z=-294.00] died, message: 'Pat was slain by COOPER'
+[17Oct2024 02:43:30.584] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Pat'/199, l='ServerLevel[world]', x=-421.08, y=64.00, z=-294.00] died: Pat was slain by COOPER
+[17Oct2024 02:43:51.582] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lesley'/228, l='ServerLevel[world]', x=-421.08, y=64.00, z=-291.92] died, message: 'Lesley was slain by COOPER'
+[17Oct2024 02:43:51.584] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Lesley'/228, l='ServerLevel[world]', x=-421.08, y=64.00, z=-291.92] died: Lesley was slain by COOPER
+[17Oct2024 02:45:02.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VanessaRS> volvi
+[17Oct2024 02:45:23.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VanessaRS has made the advancement [A Seedy Place]
+[17Oct2024 02:45:26.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> oiga
+[17Oct2024 02:45:38.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VanessaRS> digame
+[17Oct2024 02:45:51.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> quiere ver y tener la mejor armadura de todo este server?
+[17Oct2024 02:46:17.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VanessaRS> jajaja a ver
+[17Oct2024 02:46:50.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> con solo decirle q el axe tiene 26 de daño
+[17Oct2024 02:47:06.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VanessaRS> dio mioo
