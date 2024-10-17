@@ -897,3 +897,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Oct2024 18:15:28.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Set own game mode to Creative Mode]
 [17Oct2024 18:17:02.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Set own game mode to Survival Mode]
 [17Oct2024 18:18:49.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Set own game mode to Creative Mode]
+[17Oct2024 18:19:06.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Set own game mode to Survival Mode]
+[17Oct2024 18:25:06.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VanessaRS lost connection: Disconnected
+[17Oct2024 18:25:06.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VanessaRS left the game
+[17Oct2024 18:25:06.687] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Oct2024 18:26:51.020] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[17Oct2024 18:26:51.053] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[17Oct2024 18:26:51.102] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[17Oct2024 18:26:51.153] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[17Oct2024 18:26:51.202] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[17Oct2024 18:26:51.251] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[17Oct2024 18:26:51.302] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[17Oct2024 18:26:51.353] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[17Oct2024 18:26:51.401] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[17Oct2024 18:26:51.457] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[17Oct2024 18:26:51.508] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[17Oct2024 18:26:51.561] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[17Oct2024 18:26:52.833] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[17Oct2024 18:26:52.835] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[17Oct2024 18:26:52.841] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[17Oct2024 18:26:55.934] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1f97e2d4
+[17Oct2024 18:26:55.980] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VanessaRS[/[0:0:0:0:0:0:0:1%0]:33448] logged in with entity id 6207 at (-393.534534085394, 71.0, -346.54887759364755)
+[17Oct2024 18:26:56.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VanessaRS joined the game
+[17Oct2024 18:26:56.121] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[17Oct2024 18:26:56.127] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[17Oct2024 18:26:56.129] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[17Oct2024 18:26:56.133] [Server thread/INFO] [Jade/]: Syncing config to VanessaRS (938d45f6-1fdb-3703-b8af-5b9aa1695cf9)
+[17Oct2024 18:27:35.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Set own game mode to Creative Mode]
