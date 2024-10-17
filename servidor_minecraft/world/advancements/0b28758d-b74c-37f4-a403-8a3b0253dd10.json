@@ -110,8 +110,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2024-10-17 20:08:04 +0000",
+      "minecraft:savanna_plateau": "2024-10-17 20:12:16 +0000",
       "minecraft:river": "2024-10-17 19:59:22 +0000",
+      "minecraft:dripstone_caves": "2024-10-17 20:14:12 +0000",
       "minecraft:forest": "2024-10-17 19:59:27 +0000",
+      "minecraft:flower_forest": "2024-10-17 20:12:58 +0000",
+      "minecraft:meadow": "2024-10-17 20:12:17 +0000",
       "minecraft:savanna": "2024-10-17 20:03:58 +0000",
       "minecraft:plains": "2024-10-17 19:56:22 +0000"
     },
@@ -162,6 +166,12 @@
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2024-10-17 19:56:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-10-17 20:12:25 +0000"
     },
     "done": true
   },
@@ -269,6 +279,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:phantom": "2024-10-17 20:17:06 +0000",
       "minecraft:zombie": "2024-10-17 20:05:32 +0000"
     },
     "done": false
