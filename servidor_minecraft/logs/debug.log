@@ -7550,3 +7550,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Oct2024 18:26:56.129] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
 [17Oct2024 18:26:56.133] [Server thread/INFO] [Jade/]: Syncing config to VanessaRS (938d45f6-1fdb-3703-b8af-5b9aa1695cf9)
 [17Oct2024 18:27:35.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Set own game mode to Creative Mode]
+[17Oct2024 18:30:31.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Oct2024 18:30:31.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Oct2024 18:34:12.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VanessaRS has made the advancement [A Glorious Feast]
+[17Oct2024 18:35:31.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Oct2024 18:35:31.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Oct2024 18:36:43.677] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Eirianwen'/6221, l='ServerLevel[world]', x=-496.05, y=64.23, z=-275.95] died, message: 'Eirianwen was slain by Fallen Chaos Knight'
+[17Oct2024 18:36:43.678] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Eirianwen'/6221, l='ServerLevel[world]', x=-496.05, y=64.23, z=-275.95] died: Eirianwen was slain by Fallen Chaos Knight
+[17Oct2024 18:37:19.776] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Annabel'/6282, l='ServerLevel[world]', x=-473.32, y=67.00, z=-322.25] died, message: 'Annabel was slain by Fallen Chaos Knight'
+[17Oct2024 18:37:19.777] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Annabel'/6282, l='ServerLevel[world]', x=-473.32, y=67.00, z=-322.25] died: Annabel was slain by Fallen Chaos Knight
