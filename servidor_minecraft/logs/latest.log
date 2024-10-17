@@ -887,3 +887,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Oct2024 17:35:26.485] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Zoe'/288, l='ServerLevel[world]', x=-367.40, y=86.00, z=-254.58] died: Zoe was slain by Zombie
 [17Oct2024 17:36:48.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VanessaRS has made the advancement [Hunt and Gather]
 [17Oct2024 17:36:48.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VanessaRS has completed the challenge [If You Can't Take the Heat...]
+[17Oct2024 17:43:08.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VanessaRS has completed the challenge [It's Purple!]
+[17Oct2024 17:44:05.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VanessaRS has made the advancement [Limit Breaker]
