@@ -8893,3 +8893,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Oct2024 20:22:59.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tioskrollex4 moved too quickly! -10.659175303190693,0.0,1.7781665463290324
 [17Oct2024 20:23:00.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
 [17Oct2024 20:23:11.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Successfully filled 5162 blocks]
+[17Oct2024 20:23:25.391] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (4 | 34 | -556).
+[17Oct2024 20:23:25.397] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[17Oct2024 20:23:25.417] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 5(0) Rooms
+[17Oct2024 20:23:25.417] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[17Oct2024 20:23:25.418] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 6(0) Rooms
+[17Oct2024 20:23:25.418] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[17Oct2024 20:23:25.418] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 7(4) Nodes and 4(0) Rooms
+[17Oct2024 20:23:25.418] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[17Oct2024 20:23:25.419] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 9(2) Nodes and 4(0) Rooms
+[17Oct2024 20:23:25.419] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[17Oct2024 20:23:25.419] [Worker-Main-101/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 11(0) Nodes and 6(0) Rooms
+[17Oct2024 20:23:25.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
