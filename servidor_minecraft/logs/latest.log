@@ -999,3 +999,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Oct2024 19:56:21.425] [Server thread/INFO] [Jade/]: Syncing config to Tu_Gatita17x (0b28758d-b74c-37f4-a403-8a3b0253dd10)
 [17Oct2024 19:56:21.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tu_Gatita17x has made the advancement [Ice and Fire]
 [17Oct2024 19:56:21.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tu_Gatita17x has made the advancement [Ninja World]
+[17Oct2024 20:02:28.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Oct2024 20:03:20.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tu_Gatita17x was blown up by Creeper
+[17Oct2024 20:04:15.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Oct2024 20:04:25.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tu_Gatita17x was blown up by Creeper
+[17Oct2024 20:04:30.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tioskrollex4: Teleported Tu_Gatita17x to tioskrollex4]
+[17Oct2024 20:04:31.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tu_Gatita17x has made the advancement [Minecraft Comes Alive]
+[17Oct2024 20:05:32.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tu_Gatita17x has made the advancement [Monster Hunter]
+[17Oct2024 20:06:47.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Tu_Gatita17x a server operator
+[17Oct2024 20:07:39.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Oct2024 20:07:55.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Oct2024 20:08:12.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Oct2024 20:11:00.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Oct2024 20:11:47.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Teleported Tu_Gatita17x to -379.727970, 100.000000, -316.740104]
+[17Oct2024 20:11:49.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tu_Gatita17x fell from a high place
+[17Oct2024 20:12:02.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Creative Mode]
+[17Oct2024 20:12:25.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tu_Gatita17x has reached the goal [Sky's the Limit]
