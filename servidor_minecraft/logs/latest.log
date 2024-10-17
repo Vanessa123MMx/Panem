@@ -1096,3 +1096,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Oct2024 20:31:37.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tu_Gatita17x has made the advancement [Ol' Betsy]
 [17Oct2024 20:32:06.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
 [17Oct2024 20:32:14.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Creative Mode]
+[17Oct2024 20:37:35.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
+[17Oct2024 20:37:54.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Creative Mode]
+[17Oct2024 20:37:58.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
+[17Oct2024 20:38:00.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tioskrollex4: Set own game mode to Survival Mode]
+[17Oct2024 20:38:25.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Oct2024 20:39:07.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tioskrollex4: Set own game mode to Creative Mode]
+[17Oct2024 20:39:29.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Set the weather to clear]
+[17Oct2024 20:39:49.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Oct2024 20:39:55.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Creative Mode]
+[17Oct2024 20:40:18.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
+[17Oct2024 20:40:23.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Oct2024 20:40:29.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Creative Mode]
+[17Oct2024 20:41:21.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tioskrollex4: Set own game mode to Survival Mode]
+[17Oct2024 20:41:31.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
+[17Oct2024 20:43:15.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[17Oct2024 20:43:19.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tioskrollex4 was shot by Tu_Gatita17x
+[17Oct2024 20:43:41.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tioskrollex4: Teleported tioskrollex4 to Tu_Gatita17x]
+[17Oct2024 20:43:56.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tu_Gatita17x moved wrongly!
