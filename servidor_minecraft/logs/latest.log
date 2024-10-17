@@ -958,3 +958,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Oct2024 02:46:17.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VanessaRS> jajaja a ver
 [17Oct2024 02:46:50.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> con solo decirle q el axe tiene 26 de daño
 [17Oct2024 02:47:06.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VanessaRS> dio mioo
+[17Oct2024 02:47:46.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VanessaRS> DIO
+[17Oct2024 02:48:22.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VanessaRS has made the advancement [Acquire Hardware]
+[17Oct2024 02:48:31.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> paseme pa duplicarla
+[17Oct2024 02:50:08.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [COOPER: Set own game mode to Survival Mode]
+[17Oct2024 02:50:40.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> tenga
+[17Oct2024 02:51:00.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VanessaRS> musha gracia
+[17Oct2024 02:51:13.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> la espada y la axe tienen porte 4 xd
+[17Oct2024 02:51:33.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COOPER has made the advancement [Monster Hunter]
+[17Oct2024 02:51:36.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VanessaRS> JAJSDJASA
+[17Oct2024 02:53:04.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [COOPER: Set own game mode to Creative Mode]
+[17Oct2024 02:53:16.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> weno me retiro
+[17Oct2024 02:53:23.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> tengo q madrugar
+[17Oct2024 02:53:27.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> buenas noches
+[17Oct2024 02:53:33.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VanessaRS> bueno buenas noshhes
+[17Oct2024 02:53:54.527] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER lost connection: Timed out
+[17Oct2024 02:53:54.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COOPER left the game
+[17Oct2024 02:53:54.652] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
