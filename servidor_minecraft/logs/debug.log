@@ -18273,3 +18273,41 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Oct2024 21:14:38.952] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 15.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 7.5 Damage not ignoring armor: 7.5 Reduced Damage: 7.5 Result Damage: 15.0
 [17Oct2024 21:15:48.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Oct2024 21:15:48.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Oct2024 21:16:45.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Creative Mode]
+[17Oct2024 21:16:53.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
+[17Oct2024 21:17:08.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Creative Mode]
+[17Oct2024 21:17:20.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
+[17Oct2024 21:17:45.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tu_Gatita17x lost connection: Timed out
+[17Oct2024 21:17:45.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tu_Gatita17x left the game
+[17Oct2024 21:17:46.063] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Oct2024 21:20:48.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Oct2024 21:20:48.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Oct2024 21:23:57.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17Oct2024 21:23:57.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estop<--[HERE]
+[17Oct2024 21:24:03.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Oct2024 21:24:03.967] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[17Oct2024 21:24:03.977] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: 938d45f6-1fdb-3703-b8af-5b9aa1695cf9
+[17Oct2024 21:24:03.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Oct2024 21:24:03.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Oct2024 21:24:04.035] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VanessaRS lost connection: Server closed
+[17Oct2024 21:24:04.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VanessaRS left the game
+[17Oct2024 21:24:04.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Oct2024 21:24:07.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Oct2024 21:24:14.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:frost_world
+[17Oct2024 21:24:14.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:pocket_dimension
+[17Oct2024 21:24:14.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Oct2024 21:24:14.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:the_abyss
+[17Oct2024 21:24:14.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Oct2024 21:24:14.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Oct2024 21:24:14.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Oct2024 21:24:14.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Oct2024 21:24:14.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (frost_world): All chunks are saved
+[17Oct2024 21:24:14.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[17Oct2024 21:24:14.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Oct2024 21:24:14.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[17Oct2024 21:24:14.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Oct2024 21:24:14.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17Oct2024 21:24:15.185] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[17Oct2024 21:24:15.187] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@63400499
+[17Oct2024 21:24:15.188] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[17Oct2024 21:24:15.188] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

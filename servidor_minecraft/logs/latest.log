@@ -1156,3 +1156,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Oct2024 21:12:52.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
 [17Oct2024 21:13:33.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Creative Mode]
 [17Oct2024 21:14:01.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
+[17Oct2024 21:16:45.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Creative Mode]
+[17Oct2024 21:16:53.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
+[17Oct2024 21:17:08.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Creative Mode]
+[17Oct2024 21:17:20.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tu_Gatita17x: Set own game mode to Survival Mode]
+[17Oct2024 21:17:45.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tu_Gatita17x lost connection: Timed out
+[17Oct2024 21:17:45.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tu_Gatita17x left the game
+[17Oct2024 21:17:46.063] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Oct2024 21:23:57.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17Oct2024 21:23:57.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estop<--[HERE]
+[17Oct2024 21:24:03.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Oct2024 21:24:03.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Oct2024 21:24:03.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Oct2024 21:24:04.035] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VanessaRS lost connection: Server closed
+[17Oct2024 21:24:04.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VanessaRS left the game
+[17Oct2024 21:24:04.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Oct2024 21:24:07.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Oct2024 21:24:14.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:frost_world
+[17Oct2024 21:24:14.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:pocket_dimension
+[17Oct2024 21:24:14.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Oct2024 21:24:14.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:the_abyss
+[17Oct2024 21:24:14.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Oct2024 21:24:14.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Oct2024 21:24:14.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (frost_world): All chunks are saved
+[17Oct2024 21:24:14.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[17Oct2024 21:24:14.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Oct2024 21:24:14.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[17Oct2024 21:24:14.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Oct2024 21:24:14.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17Oct2024 21:24:15.187] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@63400499
