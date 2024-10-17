@@ -7375,3 +7375,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Oct2024 02:46:17.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VanessaRS> jajaja a ver
 [17Oct2024 02:46:50.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> con solo decirle q el axe tiene 26 de daño
 [17Oct2024 02:47:06.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VanessaRS> dio mioo
+[17Oct2024 02:47:38.124] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Oct2024 02:47:38.125] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
