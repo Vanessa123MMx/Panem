@@ -993,3 +993,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Oct2024 01:14:31.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! 10.348123628952635,2.393760094514775,-0.6882872898774508
 [18Oct2024 01:14:32.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Successfully filled 232 blocks]
 [18Oct2024 01:14:41.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! 9.775519823457614,3.3750001341104507,-0.641481812573204
+[18Oct2024 01:25:47.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COOPER has made the advancement [Hot Stuff]
+[18Oct2024 01:27:14.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! 9.78949398627276,-3.331700930812957,-0.031180040070751147
+[18Oct2024 01:27:41.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! -8.49746720648615,3.7499973639481823,-3.801225728535883
+[18Oct2024 01:30:10.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> me presta su pechera un ratito?
+[18Oct2024 01:30:45.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VanessaRS> este como le digo esto
