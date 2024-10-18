@@ -920,3 +920,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Oct2024 00:13:46.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! 10.031282928515282,0.0,0.6126403942661796
 [18Oct2024 00:14:53.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> ya vio cual es dandadan?
 [18Oct2024 00:15:06.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VanessaRS> si se ve interesante
+[18Oct2024 00:20:54.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [COOPER: Set the time to 1000]
