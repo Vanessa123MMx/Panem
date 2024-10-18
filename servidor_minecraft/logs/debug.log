@@ -6835,3 +6835,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Oct2024 22:11:23.958] [Server thread/DEBUG] [mixin/]: Mixing MerchantOffersMixin from quark.mixins.json into net.minecraft.world.item.trading.MerchantOffers
 [18Oct2024 22:12:52.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Oct2024 22:12:52.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Oct2024 22:17:52.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Oct2024 22:17:52.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Oct2024 22:22:52.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Oct2024 22:22:52.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Oct2024 22:26:03.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Set the weather to clear]
