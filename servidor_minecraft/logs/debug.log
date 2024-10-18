@@ -7313,3 +7313,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Oct2024 00:42:19.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! 9.785251202317284,-2.723057236395235,0.06401203402327837
 [18Oct2024 00:46:16.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Oct2024 00:46:16.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Oct2024 00:51:16.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Oct2024 00:51:16.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Oct2024 00:52:01.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [COOPER: Set the time to 1000]
+[18Oct2024 00:52:10.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> q hace?
+[18Oct2024 00:52:20.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VanessaRS> el techo
+[18Oct2024 00:53:17.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> altisimo el techo
+[18Oct2024 00:53:18.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> xd
+[18Oct2024 00:53:30.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VanessaRS> sep
+[18Oct2024 00:53:43.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! -8.336694509770098,0.0,5.663563531549926
+[18Oct2024 00:53:57.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> se puede tener dragon?
+[18Oct2024 00:53:58.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! -9.53190676034211,0.0,4.982426679273146
+[18Oct2024 00:54:15.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VanessaRS> si pero en survival
+[18Oct2024 00:54:36.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> okis
+[18Oct2024 00:56:03.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COOPER has reached the goal [Pray to the Goddess]
+[18Oct2024 00:56:16.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Oct2024 00:56:16.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Oct2024 00:56:16.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> ohhhhhhhhh
+[18Oct2024 00:56:19.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> ta bacan
+[18Oct2024 00:56:33.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COOPER has completed the challenge [Hero of Hyrule]
+[18Oct2024 00:56:44.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> :0
+[18Oct2024 00:56:50.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! 9.014641713238234,0.0,4.867177263553913
+[18Oct2024 00:57:55.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! 0.6272739039156363,1.3562400538921366,-9.907185612092519
