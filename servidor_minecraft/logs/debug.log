@@ -14348,3 +14348,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Oct2024 03:11:21.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Oct2024 03:11:21.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Oct2024 03:11:59.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Set the weather to clear]
+[18Oct2024 03:16:21.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Oct2024 03:16:21.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Oct2024 03:18:13.655] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Oct2024 03:18:13.655] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Oct2024 03:20:58.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Successfully filled 225 blocks]
+[18Oct2024 03:21:05.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Successfully filled 225 blocks]
+[18Oct2024 03:21:21.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Oct2024 03:21:21.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Oct2024 03:21:26.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Successfully filled 225 blocks]
+[18Oct2024 03:21:41.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Successfully filled 225 blocks]
