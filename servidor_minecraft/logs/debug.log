@@ -7792,3 +7792,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Oct2024 01:27:41.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! -8.49746720648615,3.7499973639481823,-3.801225728535883
 [18Oct2024 01:30:10.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> me presta su pechera un ratito?
 [18Oct2024 01:30:45.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VanessaRS> este como le digo esto
+[18Oct2024 01:31:19.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Oct2024 01:31:19.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Oct2024 01:31:20.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> jasjajs
