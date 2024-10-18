@@ -1034,3 +1034,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Oct2024 01:48:27.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VanessaRS> xd
 [18Oct2024 01:48:35.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> jsajasj
 [18Oct2024 01:49:11.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [COOPER: Set own game mode to Creative Mode]
+[18Oct2024 01:53:13.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! -9.21159598585308,3.3750001341104507,2.9992500560964572
+[18Oct2024 01:57:37.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! -5.508203286377807,3.7501022083784363,7.752411774353504
+[18Oct2024 01:59:17.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! -0.4239579812555121,-5.6216000461578375,8.37948765640408
+[18Oct2024 02:00:02.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COOPER has completed the challenge [Cover Me in Debris]
+[18Oct2024 02:00:04.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COOPER has made the advancement [Cover Me with Diamonds]
+[18Oct2024 02:00:37.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COOPER has made the advancement [Suit Up]
+[18Oct2024 02:01:54.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COOPER has made the advancement [A Flaming Sword]

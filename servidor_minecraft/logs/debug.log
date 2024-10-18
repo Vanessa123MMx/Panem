@@ -13885,3 +13885,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Oct2024 01:49:11.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [COOPER: Set own game mode to Creative Mode]
 [18Oct2024 01:51:19.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Oct2024 01:51:19.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Oct2024 01:53:13.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! -9.21159598585308,3.3750001341104507,2.9992500560964572
+[18Oct2024 01:56:19.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Oct2024 01:56:19.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Oct2024 01:57:37.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! -5.508203286377807,3.7501022083784363,7.752411774353504
+[18Oct2024 01:58:05.655] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Oct2024 01:58:05.656] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Oct2024 01:59:17.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! -0.4239579812555121,-5.6216000461578375,8.37948765640408
+[18Oct2024 02:00:02.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COOPER has completed the challenge [Cover Me in Debris]
+[18Oct2024 02:00:04.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COOPER has made the advancement [Cover Me with Diamonds]
+[18Oct2024 02:00:37.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COOPER has made the advancement [Suit Up]
+[18Oct2024 02:01:19.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Oct2024 02:01:19.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Oct2024 02:01:54.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COOPER has made the advancement [A Flaming Sword]
