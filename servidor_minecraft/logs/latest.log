@@ -923,3 +923,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Oct2024 00:20:54.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [COOPER: Set the time to 1000]
 [18Oct2024 00:30:38.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! -7.284864081119849,0.0,7.209326721301181
 [18Oct2024 00:31:06.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [COOPER: Set the time to 1000]
+[18Oct2024 00:42:03.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [COOPER: Set the time to 1000]
+[18Oct2024 00:42:19.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! 9.785251202317284,-2.723057236395235,0.06401203402327837
