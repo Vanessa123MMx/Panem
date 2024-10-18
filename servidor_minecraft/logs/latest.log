@@ -1049,3 +1049,28 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Oct2024 02:18:15.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Set the weather to clear]
 [18Oct2024 02:19:05.796] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VanessaRS lost connection: Timed out
 [18Oct2024 02:19:05.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VanessaRS left the game
+[18Oct2024 03:10:12.694] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[18Oct2024 03:10:12.723] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[18Oct2024 03:10:12.772] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[18Oct2024 03:10:12.822] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[18Oct2024 03:10:12.872] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[18Oct2024 03:10:12.923] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[18Oct2024 03:10:12.973] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[18Oct2024 03:10:13.025] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[18Oct2024 03:10:13.071] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[18Oct2024 03:10:13.125] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[18Oct2024 03:10:13.172] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[18Oct2024 03:10:13.221] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[18Oct2024 03:10:14.203] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[18Oct2024 03:10:14.203] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[18Oct2024 03:10:14.205] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[18Oct2024 03:10:17.617] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@47039f43
+[18Oct2024 03:10:17.670] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VanessaRS[/[0:0:0:0:0:0:0:1%0]:52178] logged in with entity id 26993 at (-394.73682694114086, 64.0, -334.38916503220736)
+[18Oct2024 03:10:17.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VanessaRS joined the game
+[18Oct2024 03:10:17.801] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:general'
+[18Oct2024 03:10:17.809] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
+[18Oct2024 03:10:17.810] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
+[18Oct2024 03:10:17.810] [Server thread/INFO] [Jade/]: Syncing config to VanessaRS (938d45f6-1fdb-3703-b8af-5b9aa1695cf9)
+[18Oct2024 03:10:19.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[18Oct2024 03:11:19.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VanessaRS moved too quickly! -7.736487581278311,0.0,7.315201172346121
+[18Oct2024 03:11:59.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Set the weather to clear]
