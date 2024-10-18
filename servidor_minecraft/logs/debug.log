@@ -7768,3 +7768,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Oct2024 01:09:45.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [COOPER: Killed COOPER]
 [18Oct2024 01:09:51.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COOPER fell out of the world
 [18Oct2024 01:09:59.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3247ms or 64 ticks behind
+[18Oct2024 01:11:19.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Oct2024 01:11:19.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Oct2024 01:11:22.874] [Server thread/DEBUG] [mixin/]: Mixing PiglinBrainMixin from identity.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[18Oct2024 01:11:22.875] [Server thread/DEBUG] [mixin/]: identity.mixins.json:PiglinBrainMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[18Oct2024 01:11:22.896] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[18Oct2024 01:12:27.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [COOPER: Teleported 2 entities to VanessaRS]
+[18Oct2024 01:12:45.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! -8.039775062650278,0.0,7.296113060612186
+[18Oct2024 01:13:03.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> weno
+[18Oct2024 01:13:07.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COOPER> a explorar
+[18Oct2024 01:13:57.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Successfully filled 940 blocks]
+[18Oct2024 01:14:31.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! 10.348123628952635,2.393760094514775,-0.6882872898774508
+[18Oct2024 01:14:32.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Successfully filled 232 blocks]
+[18Oct2024 01:14:41.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER moved too quickly! 9.775519823457614,3.3750001341104507,-0.641481812573204
+[18Oct2024 01:16:19.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Oct2024 01:16:19.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
