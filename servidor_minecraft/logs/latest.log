@@ -1114,3 +1114,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Oct2024 04:06:35.813] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:item_values'
 [18Oct2024 04:06:35.814] [Server thread/INFO] [com.tristankechlo.toolleveling.ToolLeveling/]: Sending config to client: 'toolleveling:commands'
 [18Oct2024 04:06:35.817] [Server thread/INFO] [Jade/]: Syncing config to VanessaRS (938d45f6-1fdb-3703-b8af-5b9aa1695cf9)
+[18Oct2024 04:16:35.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Successfully filled 225 blocks]
+[18Oct2024 04:16:49.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Successfully filled 225 blocks]
