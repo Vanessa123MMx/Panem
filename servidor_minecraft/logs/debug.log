@@ -13898,3 +13898,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Oct2024 02:01:19.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Oct2024 02:01:19.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Oct2024 02:01:54.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COOPER has made the advancement [A Flaming Sword]
+[18Oct2024 02:02:53.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COOPER has made the advancement [Another Brick in the Wall]
+[18Oct2024 02:04:07.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COOPER has made the advancement [The Heart and the Flame]
+[18Oct2024 02:06:19.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Oct2024 02:06:19.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Oct2024 02:07:15.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COOPER lost connection: Timed out
+[18Oct2024 02:07:15.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COOPER left the game
+[18Oct2024 02:11:19.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Oct2024 02:11:19.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Oct2024 02:11:47.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VanessaRS: Set the weather to clear]
