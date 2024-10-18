@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "paraglider:all_vessels": {
+    "criteria": {
+      "code_triggered": "2024-10-18 00:56:33 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black_from_white": {
     "criteria": {
       "has_the_recipe": "2024-10-16 01:37:09 +0000"
