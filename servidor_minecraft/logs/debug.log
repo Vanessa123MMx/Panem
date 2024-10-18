@@ -6807,3 +6807,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Oct2024 21:10:07.969] [Server thread/DEBUG] [mixin/]: Mixing access.MobCountsAccess from enhancedcelestials.mixins.json into net.minecraft.world.level.LocalMobCapCalculator$MobCounts
 [18Oct2024 21:12:52.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Oct2024 21:12:52.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Oct2024 21:17:52.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Oct2024 21:17:52.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Oct2024 21:22:52.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Oct2024 21:22:52.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
